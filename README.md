@@ -8,22 +8,18 @@ NOMM (менеджер модов Nuclear Option) берёт список мод
 
 Интерфейс самого менеджера при этом остаётся английским — переводятся только описания модов.
 
-## Как использовать (локальный сервер)
+## Как использовать
 
-1. Запустите `start-server.bat` (порт 8765, файлы раздаются из `dist/`).
-2. Откройте NOMM → **Settings**.
-3. В блоке **Manifest** замените:
-   - `Manifest Source URL` → `http://localhost:8765/manifest.json`
-   - `Manifest Version Source URL` → `http://localhost:8765/version.json`
-4. Список модов перезагрузится с русскими описаниями.
+1. Откройте NOMM → **Settings**.
+2. В блоке **Manifest** замените:
+   - `Manifest Source URL` → `https://raw.githubusercontent.com/teberrian-source/nomm-ru-manifest/main/dist/manifest.json`
+   - `Manifest Version Source URL` → `https://raw.githubusercontent.com/teberrian-source/nomm-ru-manifest/main/dist/version.json`
+3. Список модов перезагрузится с русскими описаниями.
+
+Альтернатива — локальный сервер: запустите `start-server.bat` (порт 8765, файлы раздаются из `dist/`) и вставьте `http://localhost:8765/manifest.json` и `http://localhost:8765/version.json`.
 
 Чтобы вернуть английские описания — вставьте обратно официальные URL:
 `https://kopterbuzz.github.io/NOMNOM/manifest/manifest.json` и `.../version.json`.
-
-## Как использовать (GitHub, после публикации репозитория)
-
-- `Manifest Source URL` → `https://raw.githubusercontent.com/<ВАШ-ЛОГИН>/nomm-ru-manifest/main/dist/manifest.json`
-- `Manifest Version Source URL` → `https://raw.githubusercontent.com/<ВАШ-ЛОГИН>/nomm-ru-manifest/main/dist/version.json`
 
 Установка, обновления и проверка хэшей модов продолжают работать — меняем только источник описаний, сами ссылки на скачивание (`downloadUrl`) и хэши остаются оригинальными.
 
