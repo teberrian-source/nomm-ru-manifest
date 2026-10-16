@@ -386,7 +386,7 @@
     {
         "id":  "AircraftWaypoints",
         "displayName":  "Aircraft Waypoints + Camera Trail",
-        "description":  "Waypoint navigation system for aircraft with camera trail visualization. Create, save, and follow flight paths in the mission editor.",
+        "description":  "Система навигации по путевым точкам для самолётов с визуализацией следа камеры. Создавайте, сохраняйте и выполняйте маршруты полёта в редакторе миссий.",
         "tags":  [
                      "QoL",
                      "Aircraft"
@@ -427,7 +427,7 @@
     {
         "id":  "AirSpawnMod",
         "displayName":  "Air Spawn",
-        "description":  "Spawns your aircraft in the air at a configurable altitude and airspeed instead of on the hangar floor. Supports per-aircraft presets and speed unit selection (m/s, km/h, mph, kt).",
+        "description":  "Запускает ваш самолёт в воздухе с настраиваемыми высотой и скоростью вместо ангара. Поддерживает пресеты для каждого самолёта и выбор единиц скорости (м/с, км/ч, мили/ч, узлы).",
         "tags":  [
                      "mod",
                      "QoL",
@@ -486,7 +486,7 @@
     {
         "id":  "Apex-6",
         "displayName":  "Apex-6 / Apex-8",
-        "description":  "Adds optically guided jet-powered attack drones, aircraft launch rails, a six-drone Apex-6 ground launcher, a four-drone Apex-8 ground launcher, and parachute-deployed cargo swarms. Cargo pallets carry eight Apex-6 or four Apex-8 drones and are available on VL-49 Tarantula and the optional MC-260 Chimera mod. Includes upward drone ejection, sequential launches, and ammunition visuals. Requires Blueprinter 2.0.1 or newer.",
+        "description":  "Добавляет оптически управляемые реактивные ударные дроны, авиационные катапульты, шестидроновый наземный пусковой Apex-6, четырёхдроновый Apex-8 и сбрасываемые на парашюте грузовые рои. Грузовые платформы несут восемь Apex-6 или четыре Apex-8 и доступны на VL-49 Tarantula и в опциональном моде MC-260 Chimera. Включает вертикальный выброс дронов, последовательные пуски и визуализацию боеприпасов. Требуется Blueprinter 2.0.1 или новее.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -528,7 +528,7 @@
     {
         "id":  "Apul.NO_AirborneResupply",
         "displayName":  "Airborne Resupply",
-        "description":  "A mod to add simplistic airborne resupply (rearm and refuel).",
+        "description":  "Простой мод для дозаправки и перевооружения в воздухе.",
         "tags":  [
                      "mod"
                  ],
@@ -627,7 +627,7 @@
     {
         "id":  "Apul.NO_BoteSmootherFix",
         "displayName":  "BOTE Network Smoother Fix",
-        "description":  "Small fix for an NRE in a BOTE prefix that can cause clients to become unusable midst mission.",
+        "description":  "Небольшое исправление ошибки NRE в префиксе BOTE, из-за которой клиенты могли выйти из строя посреди миссии.",
         "tags":  [
                      "mod",
                      "fix",
@@ -710,7 +710,7 @@
     {
         "id":  "Apul.NO_HardpointInfo",
         "displayName":  "Hardpoint Info",
-        "description":  "A mod to add more (configurable) hardpoint info in loadout menu.",
+        "description":  "Мод добавляет больше (настраиваемой) информации о точках подвески в меню оснащения.",
         "tags":  [
                      "mod",
                      "qol",
@@ -766,7 +766,7 @@
     {
         "id":  "Apul.NO_Optimisation",
         "displayName":  "NO Optimisation",
-        "description":  "Optimisation mod (client and server).",
+        "description":  "Мод оптимизации (клиент и сервер).",
         "tags":  [
                      "mod",
                      "Performance",
@@ -808,7 +808,7 @@
     {
         "id":  "Aryx_F22E_StrikeRaptor.FCS",
         "displayName":  "F-22E Strike Raptor FCS",
-        "description":  "Replaces the flight control laws of Aryx\u0027s F-22E with a fly-by-wire system: AoA command at low speed blending into G command at high speed, pitch-rate command past 36 degrees AoA in both directions, roll/yaw blending at high AoA, a low-thrust AoA cap, asymmetric-load compensation and carefree handling. Includes CG and control surfaces airfoil changes. Recommend to fly with stability assits on Requires the Aryx F-22E mod. The optional DevUnlock plugin (separate release asset) exposes the debug settings.",
+        "description":  "Заменяет законы управления полётом Aryx F-22E на систему fly-by-wire: команду по углу атаки на малой скорости, плавно переходящую в команду по перегрузке на высокой, команду по угловой скорости при угле атаки свыше 36° в обе стороны, смешивание крена/рыскания на больших углах атаки, ограничение угла атаки на малой тяге, компенсацию асимметричной нагрузки и беззаботное управление. Включает изменения профиля ЦТ и аэродинамических поверхностей. Рекомендуется летать с включённой стабилизацией. Требуется мод Aryx F-22E. Необязательный плагин DevUnlock (отдельный релиз) открывает отладочные настройки.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -2880,7 +2880,7 @@
     {
         "id":  "AShM500Yashma",
         "displayName":  "AShM-500 Yashma",
-        "description":  "A ramjet powered supersonic anti-ship cruise missile. Nine and a half metres, three tonnes, Mach 2.4 on the deck and well past Mach 3 lofted. Sea skimming with terrain following, three switchable flight profiles, salvo spread that fans and reconverges, a staged infra red signature and a shallow terminal weave. Carried by the Darkreach, Multirole1 and FastBomber1, and by three modded aircraft if you have them.",
+        "description":  "Антикорабельная крылатая ракета на воздушно-реактивном двигателе. Девять с половиной метров, три тонны, Мах 2,4 на траверзе и далеко за Мах 3 при подбросе. Летание с ИКН по рельефу, три переключаемых профиля полёта, залп с веерным разбегом и схождением, ступенчатая ИК-подпись и лёгкое зигзагообразное снижение. Несётся на Darkreach, Multirole1 и FastBomber1, а также на трёх модных самолётах, если они у вас есть.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -2931,7 +2931,7 @@
     {
         "id":  "AtomicFramework",
         "displayName":  "AtomicFramework",
-        "description":  "Modding framework and utilities for Nuclear Option. Note: The NOMNOM compatible version has some features removed.",
+        "description":  "Фреймворк и утилиты для моддинга Nuclear Option. Примечание: версия, совместимая с NOMNOM, имеет некоторые функции.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -2972,7 +2972,7 @@
     {
         "id":  "BayDoorsMod",
         "displayName":  "Bay Doors",
-        "description":  "Open and close the weapon bay doors of the aircraft you are flying with a key, Alt+B by default. The doors still work normally on their own and holding them open does not change how anything loads, aims or launches. No dependencies.",
+        "description":  "Открывайте и закрывайте двери оружейных отсеков вашего самолёта клавишей (по умолчанию Alt+B). Двери по-прежнему работают самостоятельно, и удержание их открытыми не меняет загрузку, прицеливание и пуск. Без зависимостей.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -3015,7 +3015,7 @@
     {
         "id":  "bepinex-soundmod",
         "displayName":  "Audio Switcher",
-        "description":  "This mod is similar to yappinator except this can affect things such as radar an ir locking sounds even the sounds generated by weapons ( a-10 brrrrrrt is being checked )",
+        "description":  "Этот мод похож на yappinator, но может менять такие вещи, как звуки захвата радаром и ИК-прицеливания, даже звуки, издаваемые оружием (звук A-10 brrrrrrt на проверке).",
         "tags":  [
                      "mod"
                  ],
@@ -3080,7 +3080,7 @@
     {
         "id":  "bl.missiles",
         "displayName":  "BL Modern Missiles Pack",
-        "description":  "Adds several current-era, modern, guided and unguided missiles to Nuclear Option as well as a few older ones.",
+        "description":  "Добавляет в Nuclear Option несколько современных управляемых и неуправляемых ракет, а также несколько старых образцов.",
         "tags":  [
                      "mod",
                      "weapons",
@@ -3331,7 +3331,7 @@
     {
         "id":  "blacknight2u.sarhcontrol",
         "displayName":  "Radar Missile Control",
-        "description":  "Host-controlled SARH and ARH missile presets. Press F7 to configure missile types, AI/player engagements, guidance, accuracy, thrust, and speed. Press F8 to cycle Vanilla, Preset 1, and Preset 2. Multiplayer settings remain host-authoritative.",
+        "description":  "Пресеты ракет с полуактивным и активным наведением под контролем хоста. Нажмите F7 для настройки типов ракет, перехватов ИИ/игроков, наведения, точности, тяги и скорости. F8 — переключение Vanilla, Пресет 1 и Пресет 2. Настройки мультиплеера остаются за хостом.",
         "tags":  [
                      "gameplay",
                      "difficulty",
@@ -3696,7 +3696,7 @@
     {
         "id":  "BVR-BalanceAndVarietyRework",
         "displayName":  "BVR - Balance and Variety Rework",
-        "description":  "A rebalance project that aims to push Nuclear Option\u0027s gameplay towards a more engaging simlite experience while still honouring ShockFront\u0027s vision. Fully configurable for a sandbox feel and fully multiplayer compatible. Has a long list of features which is best seen on GitHub.",
+        "description":  "Проект ребаланса, который двигает геймплей Nuclear Option к более увлекательному simlite-опыту, но при этом уважает замысел ShockFront. Полностью настраивается для песочницы и полностью совместим с мультиплеером. Длинный список функций удобнее всего посмотреть на GitHub.",
         "tags":  [
                      "Balance",
                      "QoL",
@@ -3788,7 +3788,7 @@
     {
         "id":  "byt0rpilot.MissileScreen",
         "displayName":  "Missile Screen",
-        "description":  "MFD panel that shows the camera feed of active missiles.",
+        "description":  "Панель МФД с видеопотоком активных ракет.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -3822,7 +3822,7 @@
     {
         "id":  "byt0rpilot.ShaderNightVision",
         "displayName":  "Shader Night Vision",
-        "description":  "Replaces vanilla night vision with custom made shader night vision for your larping needs!",
+        "description":  "Заменяет штатное ночное видение на собственный шейдерный ночной прицел для ваших ролевых потребностей!",
         "tags":  [
                      "mod",
                      "QoL",
@@ -3877,7 +3877,7 @@
     {
         "id":  "CameraPresets",
         "displayName":  "Camera Presets",
-        "description":  "save and load presets of the advanced camera controls menu",
+        "description":  "Сохранение и загрузка пресетов меню расширенного управления камерой.",
         "tags":  [
                      "mod",
                      "qol"
@@ -3910,7 +3910,7 @@
     {
         "id":  "CargoHookFree",
         "displayName":  "Cargo Hook Free",
-        "description":  "Removes the CanSlingLoad restriction from the cargo hook system, allowing you to hook any unit — aircraft, buildings, anything. Same controls, stock physics unchanged.",
+        "description":  "Снимает ограничение CanSlingLoad с системы грузового крюка: цеплять можно любой юнит — самолёт, здание, всё что угодно. Управление прежнее, физика штатная.",
         "tags":  [
                      "mod"
                  ],
@@ -3951,7 +3951,7 @@
     {
         "id":  "ChaseCamPlus",
         "displayName":  "ChaseCamPlus",
-        "description":  "Makes the chase camera usable on mouse and keyboard: a virtual joystick in third person, hold-to-orbit free look, a cockpit/chase toggle, the flight HUD and minimap restored in chase with per-element toggles, turret aiming, and an optional chase camera that keeps the horizon level.",
+        "description":  "Делает камеру преследования пригодной для мыши и клавиатуры: виртуальный джойстик в третьем лице, обзор с удержанием кнопки, переключатель кабина/преследование, возвращённые HUD и миникарта с поэлементными переключателями, прицеливание из башни и опциональная камера с горизонтом по уровню.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -3986,7 +3986,7 @@
     {
         "id":  "ChaseView",
         "displayName":  "ChaseView",
-        "description":  "Chase style camera, complete with HUD, optional weapon select flavor graphics (and damage display model); works with (probably) every aircraft.",
+        "description":  "Камера в стиле преследования с HUD, необязательной графической стилизацией выбора оружия (и индикацией повреждений); работает с (наверное) любым самолётом.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -4020,7 +4020,7 @@
     {
         "id":  "ChicanePusherLab",
         "displayName":  "Chicane Pusher Lab",
-        "description":  "Adds a working rear pusher propeller to the Chicane, turning the helicopter into a compound helicopter: blade-angle pusher with a turbine-budget power model, manual thrust override, mass-adaptive lateral trim, an improved main-rotor drag model with Ibis rotor visuals, a battle-damage model with bent blade meshes, and a live pusher/turbine/rotor MFD with stock-style FAULT/INOPERABLE indication.",
+        "description":  "Добавляет Chicane работающий хвостовой толкающий винт, превращая вертолёт в компаунд: толкающий винт с углом лопастей и моделью мощности по турбинному бюджету, ручное переопределение тяги, боковую балансировку по массе, улучшенную модель сопротивления несущего винта с визуализацией лопастей Ibis, модель боевых повреждений с погнутыми лопастями и живой МФД толкающего/турбины/винта со штатной индикацией FAULT/INOPERABLE.",
         "tags":  [
                      "Aircraft",
                      "Flight Model"
@@ -4168,7 +4168,7 @@
     {
         "id":  "ChicaneWingDelete",
         "displayName":  "Chicane Wing Delete",
-        "description":  "Removes the Chicane\u0027s external wings when no wing payload is equipped, while preserving QoL/vanilla RCS behavior.",
+        "description":  "Убирает внешние крылья Chicane, когда крыльевая подвеска не установлена, сохраняя удобное и штатное поведение RCS.",
         "tags":  [
                      "mod",
                      "Aircraft",
@@ -4229,7 +4229,7 @@
     {
         "id":  "ChimeraTailWeld",
         "displayName":  "Chimera Tail Weld",
-        "description":  "Welds the Aryx MC-260 Chimera\u0027s Fuselage_Top_Rear panel into the airframe so the V-tail no longer visibly twists the rear fuselage. Single-piece weld via the game\u0027s own AeroPart.MergeWithParent; vanilla flight model preserved.",
+        "description":  "Приваривает панель Fuselage_Top_Rear Aryx MC-260 Chimera к планеру, чтобы V-образное хвостовое оперение больше не перекручивало заднюю часть фюзеляжа. Сварка в одну деталь через штатный AeroPart.MergeWithParent; штатная лётная модель сохранена.",
         "tags":  [
                      "mod",
                      "Aircraft",
@@ -4263,7 +4263,7 @@
     {
         "id":  "CI23Camel",
         "displayName":  "CI-23 Camel",
-        "description":  "Adds the CI-23 Camel, a cricket with a jet engine (and some other changes)",
+        "description":  "Добавляет CI-23 Camel — кузнечика с реактивным двигателем (и некоторые другие изменения).",
         "tags":  [
                      "Aircraft"
                  ],
@@ -4313,7 +4313,7 @@
     {
         "id":  "Circuit-Breaker",
         "displayName":  "Circuit Breaker",
-        "description":  "Adds the AGM-180 Blackout microwave suppression cruise missile and CBU-82M Locust mine dispenser. Blackout emits for 20 seconds within 10 km of its remembered launch target and suppresses enemy ground electronics plus aircraft radar and datalink, including allies; recovery takes four seconds after last exposure. Locust deploys eight 7 kg HE mines using CCIP. Includes vanilla and selected mod-aircraft compatibility, excluding MiG-29. One DLL with an embedded Blueprinter bundle. Early testing release; requires Blueprinter 2.0.1 or newer.",
+        "description":  "Добавляет крылатую ракету подавления AGM-180 Blackout и разливатель мин CBU-82M Locust. Blackout излучает 20 секунд в радиусе 10 км от запомненной цели пуска и подавляет наземную электронику противника, а также радары и каналы данных самолётов, включая союзников; восстановление занимает четыре секунды после последнего воздействия. Locust сбрасывает восемь фугасных мин 7 кг по CCIP. Включает совместимость со штатными и выбранными модными самолётами, кроме МиГ-29. Один DLL со встроенным бандлом Blueprinter. Ранняя тестовая версия; требуется Blueprinter 2.0.1 или новее.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -4371,7 +4371,7 @@
     {
         "id":  "com.basicGrowl",
         "displayName":  "Nurds Basic Growl",
-        "description":  "IR seeker growl audio mod for Nuclear Option with profile-driven seeker behavior and configurable audio.",
+        "description":  "ИК-звук захвата для Nuclear Option с поведением головки самонаведения по профилям и настраиваемым аудио.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -4446,7 +4446,7 @@
     {
         "id":  "com.bigloude.notacmap",
         "displayName":  "NOTacMap",
-        "description":  "Second-screen tactical map. Install it, start the game, and the map opens in your browser by itself (or open http://localhost:8123/). Drag that tab to your second monitor. A plugin inside the game reads only what your client already knows and shows your position, tracked units, airbases, incoming-missile warnings, lock lines, your marked targets and your weapon\u0027s range. FILTER and DISPLAY (top right) change what is shown and the colors. Other settings (port, auto-open, update rate) are in BepInEx/config/com.bigloude.notacmap.cfg, or in the F1 menu if you have the BepInEx Configuration Manager. Optional phone or tablet view on your home network, off by default: pick \"On another device\" when the map page asks.",
+        "description":  "Тактическая карта на втором экране. Установите, запустите игру — карта сама откроется в браузере (или откройте http://localhost:8123/). Перетащите вкладку на второй монитор. Плагин в игре читает только то, что уже знает ваш клиент, и показывает вашу позицию, отслеживаемые юниты, аэродромы, предупреждения о ракетах, линии захвата, отмеченные цели и дальность вашего оружия. FILTER и DISPLAY (справа сверху) меняют отображаемое и цвета. Прочие настройки (порт, автооткрытие, частота обновления) — в BepInEx/config/com.bigloude.notacmap.cfg или в меню F1 при наличии BepInEx Configuration Manager. Необязательный показ на телефоне/планшете в домашней сети по умолчанию выключен: выберите «На другом устройстве», когда страница карты предложит.",
         "tags":  [
                      "QoL",
                      "Utility"
@@ -4522,7 +4522,7 @@
     {
         "id":  "com.bongus.simplewso",
         "displayName":  "SimpleWSO",
-        "description":  "Simple multicrew. Select a friendly AI or Player aircraft in spectate, press H (Configurable via F1 with BepinEx Configuration Manager) and thats it. Additional features include gunner indicator, target sharing with pilot and gunner via U, and multiple camera offsets with K key.",
+        "description":  "Простой бортовой экипаж. Выберите дружественный самолёт ИИ или игрока в режиме наблюдения, нажмите H (настраивается через F1 с BepInEx Configuration Manager) — и всё. Дополнительно: индикатор стрелка, передача цели пилоту и стрелку по U и несколько смещений камеры по клавише K.",
         "tags":  [
                      "QoL",
                      "Utility"
@@ -4583,7 +4583,7 @@
     {
         "id":  "com.darkskies.skingate",
         "displayName":  "DarkSkies SkinGate",
-        "description":  "DarkSkies Milsim - Discord squadron roles to per-SteamID livery allowlist. Host syncs allowlist.json to joiners over Steam NetworkingMessages; hangar UI filters and SetLiveryKey enforcement.",
+        "description":  "DarkSkies Milsim — роли эскадрильи Discord в разрешительный список камуфляжей по SteamID. Хост синхронизирует allowlist.json с подключающимися через Steam NetworkingMessages; фильтры в UI ангара и принудительная проверка SetLiveryKey.",
         "tags":  [
                      "Utility",
                      "QoL",
@@ -4622,7 +4622,7 @@
     {
         "id":  "com.dsr.nors",
         "displayName":  "NORS - Nuclear Option Radio System",
-        "description":  "A realistic radio communication system for Nuclear Option.",
+        "description":  "Реалистичная система радиосвязи для Nuclear Option.",
         "tags":  [
                      "Utility",
                      "QoL"
@@ -4756,7 +4756,7 @@
     {
         "id":  "com.equalizer.unified",
         "displayName":  "Equalizer Mod",
-        "description":  "Equalize modded airframes and ground units with vanilla in Inventory and Factory (Production)",
+        "description":  "Уравнивает модные планеры и наземные юниты со штатными в инвентаре и на фабрике (производстве).",
         "tags":  [
                      "QoL",
                      "Utility"
@@ -4798,7 +4798,7 @@
     {
         "id":  "Com.Hellcat92.ChangePlayerName",
         "displayName":  "NO-ChangePlayerName",
-        "description":  "Allows the user to change their in-game name separate from their Steam profile name.",
+        "description":  "Позволяет менять игровое имя, не связанное с именем в Steam.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -4837,7 +4837,7 @@
     {
         "id":  "Com.Hellcat92.FuelBurnEnduranceTimer",
         "displayName":  "NO-FuelBurnEnduranceTimer",
-        "description":  "Shows you how much time you have until the engines flame out from fuel starvation, accounting to your current throttle level, and quantity of fuel onboard. Calculates fuel burn rate and displays an endurance timer with said values. Updates every second.",
+        "description":  "Показывает, сколько времени осталось до затухания двигателей от исчерпания топлива, с учётом текущего положения ручки газа и количества топлива на борту. Считает расход и показывает таймер автономности. Обновляется каждую секунду.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -4907,7 +4907,7 @@
     {
         "id":  "Com.Hellcat92.TargetGridRefHUD",
         "displayName":  "NO-TargetGridRefHUD",
-        "description":  "For those who need the grid reference of their targets instantly without having to open the map and finding it manually, here is a mod i made which paints it directly to your HUD for the target you have selected.",
+        "description":  "Тем, кому нужна координатная сетка цели мгновенно, без открытия карты и ручного поиска: этот мод выводит её прямо на HUD для выбранной цели.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -4992,7 +4992,7 @@
     {
         "id":  "Com.Hellcat92.VanillaIconsPLUS",
         "displayName":  "NO-VanillaIconsPLUS",
-        "description":  "QoL mod to toggle player names on and off and change icon colours in HUD and MAP.",
+        "description":  "Удобный мод: включение/выключение имён игроков и смена цветов иконок на HUD и карте.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -5117,7 +5117,7 @@
     {
         "id":  "com.JUSTJ7780.nomodframework",
         "displayName":  "NO Mod Framework",
-        "description":  "A lightweight in-game UI framework for Nuclear Option BepInEx mods.",
+        "description":  "Лёгкий игровой UI-фреймворк для модов Nuclear Option на BepInEx.",
         "tags":  [
                      "Utility",
                      "Framework"
@@ -5159,7 +5159,7 @@
     {
         "id":  "com.justj7780.nuclearoption.inertia",
         "displayName":  "Inertia",
-        "description":  "Allows you to customise the inertia in first person. Please use config managers menu to customise the settings.",
+        "description":  "Позволяет настраивать инерцию от первого лица. Настройки — через меню менеджера конфигурации.",
         "tags":  [
                      "utility",
                      "qol"
@@ -5198,7 +5198,7 @@
     {
         "id":  "com.justj7780.nuclearoption.targetpresets",
         "displayName":  "Target Presets",
-        "description":  "A BepInEx mod for Nuclear Option that lets you save and switch target-selection filter presets with keybinds.",
+        "description":  "Мод для BepInEx, позволяющий сохранять и переключать пресеты фильтров выбора целей горячими клавишами.",
         "tags":  [
                      "utility",
                      "qol"
@@ -5271,7 +5271,7 @@
     {
         "id":  "com.kiss",
         "displayName":  "KISS Mod (Kinetic Interception Secondary System)",
-        "description":  "Detonate the warhead early if intercepted or crashed",
+        "description":  "Подрывайте боевую часть досрочно при перехвате или падении.",
         "tags":  [
                      "QoL",
                      "Utility"
@@ -5322,7 +5322,7 @@
     {
         "id":  "com.minec.CameraImprovements",
         "displayName":  "Camera Improvements",
-        "description":  "Various small tweaks and improvements to the camera and camera tools",
+        "description":  "Разные небольшие улучшения камеры и инструментов камеры.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -5355,7 +5355,7 @@
     {
         "id":  "com.MrNoHands.tts-expander",
         "displayName":  "Handy TTS",
-        "description":  "Local neural TTS for game chat: every player gets a stable, distinct voice. Fully offline.",
+        "description":  "Локальный нейросетевой TTS для игрового чата: у каждого игрока стабильный отдельный голос. Полностью офлайн.",
         "tags":  [
                      "QoL",
                      "Audio"
@@ -5404,7 +5404,7 @@
     {
         "id":  "com.MrNoHands.tts-lite",
         "displayName":  "Handy TTS Lite",
-        "description":  "Quality of life for the games inbuilt TTS, take a look at the full version for more features.",
+        "description":  "Улучшение встроенного TTS игры; полная версия содержит больше функций.",
         "tags":  [
                      "QoL",
                      "Audio"
@@ -5444,7 +5444,7 @@
     {
         "id":  "com.mursisru.agr75heavypin",
         "displayName":  "AGR-75 Sledgepin",
-        "description":  "Heavy laser-guided air-to-ground rocket for Nuclear Option. 75 kg launch mass, 22 kg HE, 3.5 s burn, 3.2 Mach, ~22 km range. 4x and 6x AGR launcher mounts for aircraft and helicopters. Requires Blueprinter.",
+        "description":  "Тяжёлая лазерно-управляемая авиабомба-ракета для Nuclear Option. Стартовая масса 75 кг, 22 кг ВВ, горение 3,5 с, Мах 3,2, дальность ~22 км. Пусковые установки 4x и 6x для самолётов и вертолётов. Требуется Blueprinter.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -5520,7 +5520,7 @@
     {
         "id":  "com.mursisru.gpm550x",
         "displayName":  "GPM-550X",
-        "description":  "Quasi-ballistic extended-range strike missile for Nuclear Option. INS/optical guidance, 550 kg HE, 877.5 kg launch mass, ~100 km from rest. AShM-300 hardpoint variants (all quantities) plus GPO-500-only 1x on Vortex, Ifrit, and Revoker. Requires Blueprinter.",
+        "description":  "Квазибаллистическая ударная ракета увеличенной дальности для Nuclear Option. Наведение ИНС/оптика, 550 кг ВВ, стартовая масса 877,5 кг, ~100 км с места. Варианты AShM-300 для точки подвески (все количества) плюс только GPO-500 1x на Vortex, Ifrit и Revoker. Требуется Blueprinter.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -5902,7 +5902,7 @@
     {
         "id":  "com.nikkorap.EditorPlus",
         "displayName":  "EditorPlus",
-        "description":  "Enhanced Nuclear Option mission editor: group copy/paste, mass selection, node graph UI, hold position, no-clip, free camera. Original by nikkorap; maintained by Endar728 with copy-paste and fixes.",
+        "description":  "Улучшенный редактор миссий Nuclear Option: копирование/вставка групп, массовый выбор, граф интерфейса узлов, удержание позиции, режим no-clip, свободная камера. Оригинал от nikkorap; поддерживается Endar728 с добавлением копипаста и исправлениями.",
         "tags":  [
                      "QoL",
                      "mod"
@@ -5971,7 +5971,7 @@
     {
         "id":  "com.noaids.cargoassist",
         "displayName":  "Cargo Assist",
-        "description":  "Bombsight CCIP for Cargo Drop",
+        "description":  "Прицел CCIP для сброса грузов.",
         "tags":  [
                      "QoL",
                      "Utility"
@@ -6004,7 +6004,7 @@
     {
         "id":  "com.resolute.command",
         "displayName":  "Resolute Command",
-        "description":  "Optional command controls for the Resolute battlecruiser: navigation, manual engagements, sensor and electronic warfare controls, damage status and replenishment. Command orders require the mission host.",
+        "description":  "Необязательные командные органы для линейного крейсера Resolute: навигация, ручные перехваты, управление сенсорами и радиоэлектронной борьбой, состояние повреждений и пополнение. Команды требуют хоста миссии.",
         "authors":  [
                         "RValeWorks"
                     ],
@@ -6043,7 +6043,7 @@
     {
         "id":  "com.resolute.nuclearoption",
         "displayName":  "Resolute",
-        "description":  "At 225 metres in length and displacing 32,000 tonnes, the Resolute class combines long-range strike capability with fleet air and ballistic missile defence. Its 276 vertical-launch cells accommodate a diverse missile battery, supported by a 155 mm railgun for surface engagements and shore bombardment.",
+        "description":  "Длиной 225 метров и водоизмещением 32 000 тонн, класс Resolute сочетает дальний удар со средствами противовоздушной и противоракетной обороны флота. 276 вертикальных шахт вмещают разнообразный ракетный арсенал, поддерживаемый рельсовой пушкой 155 мм для боя на воде и обстрела побережья.",
         "authors":  [
                         "RValeWorks"
                     ],
@@ -6084,7 +6084,7 @@
     {
         "id":  "DelamereAerospace_weapons_pack",
         "displayName":  "DelamereAerospace Weapons Pack",
-        "description":  "Additions of various new weapons.",
+        "description":  "Добавление различных новых видов оружия.",
         "tags":  [
                      "weapon",
                      "blueprinter"
@@ -6121,7 +6121,7 @@
     {
         "id":  "dev.dikka.nuclearconnectivity",
         "displayName":  "NuclearConnectivity",
-        "description":  "Client-side Nuclear Option mod for external integrations, currently Steam Timeline combat markers.",
+        "description":  "Клиентский мод Nuclear Option для внешней интеграции, сейчас — маркеры боя в Steam Timeline.",
         "tags":  [
                      "QoL",
                      "Integration"
@@ -6158,7 +6158,7 @@
     {
         "id":  "dev.dikka.nucleardeathblackout",
         "displayName":  "NuclearDeathBlackout",
-        "description":  "Client-side Nuclear Option mod that cuts to black and briefly mutes audio when the local main pilot dies.",
+        "description":  "Клиентский мод: затемнение экрана и краткое отключение звука, когда гибнет местный главный пилот.",
         "tags":  [
                      "Immersion",
                      "QoL"
@@ -6195,7 +6195,7 @@
     {
         "id":  "dev.dikka.nuclearmapplayernames",
         "displayName":  "NuclearMapPlayerNames",
-        "description":  "Client-side Nuclear Option mod that shows multiplayer usernames next to player-controlled aircraft on the dynamic map.",
+        "description":  "Клиентский мод: имена игроков рядом с управляемыми ими самолётами на динамической карте.",
         "tags":  [
                      "QoL",
                      "Map",
@@ -6233,7 +6233,7 @@
     {
         "id":  "dev.dikka.nuclearmenubackground",
         "displayName":  "NuclearMenuBackground",
-        "description":  "Client-side Nuclear Option mod that lets players replace the main menu background with a local image.",
+        "description":  "Клиентский мод: замена фона главного меню на локальное изображение.",
         "tags":  [
                      "Art",
                      "UI"
@@ -6270,7 +6270,7 @@
     {
         "id":  "dev.dikka.nucleartrackage",
         "displayName":  "NuclearTrackAge",
-        "description":  "Client-side Nuclear Option mod that annotates stale enemy target tracks with how old the last known position is.",
+        "description":  "Клиентский мод: аннотация устаревших отметок целей противника временем последней известной позиции.",
         "tags":  [
                      "QoL",
                      "HUD",
@@ -6308,7 +6308,7 @@
     {
         "id":  "dev.dikka.nuclearunits",
         "displayName":  "NuclearUnits",
-        "description":  "Client-side Nuclear Option mod that lets players choose units per HUD readout instead of relying only on the game\u0027s global metric/imperial setting.",
+        "description":  "Клиентский мод: выбор единиц измерения для каждого показателя HUD вместо общей настройки метрика/имперская.",
         "tags":  [
                      "QoL",
                      "HUD"
@@ -6389,7 +6389,7 @@
     {
         "id":  "FighterAmmoExpanded",
         "displayName":  "Fighter Ammunition Expanded",
-        "description":  "Adds more variety to ammunition (and guns)",
+        "description":  "Добавляет больше разнообразия в боеприпасы (и пушки).",
         "tags":  [
                      "Flavour"
                  ],
@@ -6497,7 +6497,7 @@
     {
         "id":  "FS41JammingPod",
         "displayName":  "FS-41 Native Jamming Pod",
-        "description":  "Adds the native Nuclear Option Radar Jamming Pod to the Aryx FS-41 Eclipse.",
+        "description":  "Добавляет штатный для Nuclear Option контейнер радиоэлектронного подавления на Aryx FS-41 Eclipse.",
         "tags":  [
                      "mod",
                      "Aircraft",
@@ -6647,7 +6647,7 @@
     {
         "id":  "galaxy2_voice",
         "displayName":  "Galaxy 2",
-        "description":  "[Voice Pack] Expanded AWACS Galaxy dialogue pack.",
+        "description":  "[Голосовой пакет] Расширенный пакет диалогов AWACS Galaxy.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -6681,7 +6681,7 @@
     {
         "id":  "HangballMkII",
         "displayName":  "Hangball Mk.II",
-        "description":  "Hang-Aloft Node Guided (HANG) variant of the Eyeball Mk.II. When a target is selected, it flies over the target and deploys a parachute, hanging to scan and spot for Datalink as it descends. Without a target, the Hangball deploys the chute when it runs out of energy instead of self-destructing.",
+        "description":  "Вариант Eyeball Mk.II с подвеской на узле (HANG). При выбранной цели летит над ней и раскрывает парашют, вися и сканируя для Даталинка при снижении. Без цели Hangball раскрывает парашют при исчерпании энергии вместо самоподрыва.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -6723,7 +6723,7 @@
     {
         "id":  "HeavyHangar",
         "displayName":  "Heavy Aircraft Hangar",
-        "description":  "A hangar big enough for the largest aircraft (built for the B-52, fits any): 114 x 78 m with an 84 x 17 m telescoping door, lit at night. A plugin places one at each land airbase with a long runway, routes oversize aircraft to it, and spawns them outside the door of stock hangars where there is none. Also available in the mission editor.",
+        "description":  "Ангар размером для крупнейших самолётов (строился под B-52, подойдёт любому): 114 x 78 м с телескопической дверью 84 x 17 м, освещение ночью. Плагин ставит такой на каждом сухопутном аэродроме с длинной взлётной полосой, направляет туда oversized-самолёты и выводит их за пределы дверей штатных ангаров, если их нет. Доступен и в редакторе миссий.",
         "tags":  [
                      "mod",
                      "building",
@@ -6762,7 +6762,7 @@
     {
         "id":  "HeliBinds",
         "displayName":  "HeliBinds",
-        "description":  "Separate flight controls for rotorcraft. Bind pitch, roll, yaw, collective and the brake differently on helicopters than on fixed-wing, and the game switches between them by itself.",
+        "description":  "Раздельное управление для вертолётов. Назначьте тангаж, крен, рыскание, collective и тормоз иначе для вертолётов, чем для самолётов с крыльями, и игра сама переключается между ними.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -6796,7 +6796,7 @@
     {
         "id":  "highfleet_ru_voice",
         "displayName":  "Highfleet RU",
-        "description":  "[Voice Pack] Russian combat radio chatter style.",
+        "description":  "[Голосовой пакет] Стиль русской боевой радиопереписки.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -6830,7 +6830,7 @@
     {
         "id":  "HorusMod",
         "displayName":  "Horus Mod Starter",
-        "description":  "A Game Master / free camera utility mod for Nuclear Option that lets the host or local player spawn aircraft, vehicles, ships, buildings, and scenery in real time.",
+        "description":  "Мод ведущего игры / свободной камеры для Nuclear Option: хост или локальный игрок может призывать самолёты, машины, корабли, здания и декорации в реальном времени.",
         "tags":  [
                      "QoL",
                      "Utility",
@@ -6933,7 +6933,7 @@
     {
         "id":  "HSM-290-Killjoy",
         "displayName":  "HSM-290 \"Killjoy\"",
-        "description":  "Adds a two-stage air-launched aeroballistic missile with separate HE contact-fused and nuclear airburst variants, booster separation, guided ballistic descent and animated warhead fins. Supports KR-67 Ifrit, Alkyon AB-4 and SFB-81 Darkreach. Configured launch range increases with carrier altitude, up to 360 km from 10 km altitude; minimum range is 48 km. Requires Blueprinter 2.0.1.",
+        "description":  "Добавляет двухступенчатую авиационную аэробаллистическую ракету с отдельными фугасной контактной и ядерной надрывными версиями, отделением ускорителя, управляемым баллистическим снижением и анимированными лопастями боевой части. Поддерживает KR-67 Ifrit, Alkyon AB-4 и SFB-81 Darkreach. Настраиваемая дальность пуска растёт с высотой носителя — до 360 км с 10 км; минимум 48 км. Требуется Blueprinter 2.0.1.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -6989,7 +6989,7 @@
     {
         "id":  "IbisDoorGunToggle",
         "displayName":  "Ibis Door Gun Toggle",
-        "description":  "Animated UH-90 Ibis door gun stow/deploy mod.",
+        "description":  "Анимация уборки/раскладки дверной пушки UH-90 Ibis.",
         "tags":  [
                      "mod",
                      "Aircraft",
@@ -7113,7 +7113,7 @@
     {
         "id":  "IbisPowerFix",
         "displayName":  "Ibis Power Fix",
-        "description":  "Adds a tier-priority power-budget allocator to the Ibis (UtilityHelo1) so that the coaxial main rotor is fed first and the rotorless DuctedFan pushers consume only the leftover. Prevents the rotor from starving under heavy collective when the pushers demand full power. Originally part of ChicanePusherLab; split out as a standalone mod from v1.0.49 onward.",
+        "description":  "Добавляет распределитель энергии по приоритету уровней для Ibis (UtilityHelo1): несущий соосный винт получает энергию первым, а беслопастные толкающие вентиляторы потребляют только остаток. Не даёт винту «голодать» на большом collective, когда толкатели требуют полной мощности. Изначально часть ChicanePusherLab; выделен как самостоятельный мод с v1.0.49.",
         "tags":  [
                      "mod",
                      "Aircraft"
@@ -7218,7 +7218,7 @@
     {
         "id":  "InputFramework",
         "displayName":  "Extra Input Framework",
-        "description":  "A framework / API to provide extra input registration for other mods to use.",
+        "description":  "Фреймворк / API для дополнительной регистрации ввода, которым пользуются другие моды.",
         "tags":  [
                      "Utility",
                      "Framework",
@@ -7252,7 +7252,7 @@
     {
         "id":  "IronjawSound",
         "displayName":  "Ironjaw Sound",
-        "description":  "A new map: an 82 km square of fjords, glaciers and island airfields, with seven runways, seven helicopter bases, the port town of Port Ansel and a 2.3 km bridge. Comes with 15 missions, including an Escalation, a Confrontation, a supply war, strike and defence missions, Free Flight and three air races. Everyone in a multiplayer game needs it. Needs NOMapLoader.",
+        "description":  "Новая карта: квадрат 82 км с фьордами, ледниками и островными аэродромами, семь взлётных полос, семь вертолётных баз, портовый город Порт-Ансель и мост 2,3 км. Идёт с 15 миссиями: Эскалация, Столкновение, война за снабжение, ударные и оборонительные миссии, свободный полёт и три авиагонки. Всем игрокам в мультиплеере нужна одна и та же карта. Требуется NOMapLoader.",
         "tags":  [
                      "Terrain",
                      "Map"
@@ -7298,7 +7298,7 @@
     {
         "id":  "jester_voice",
         "displayName":  "WSO Jester",
-        "description":  "[Voice Pack] Jester AI backseater personality pack.",
+        "description":  "[Голосовой пакет] Характер бортоператора Jester.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -7332,7 +7332,7 @@
     {
         "id":  "JoinLanButtonPlugin",
         "displayName":  "LAN Hosting/Join Mod",
-        "description":  "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+        "description":  "Добавляет возможность создавать и подключаться к LAN-играм из главного меню без команд через CLI.",
         "tags":  [
                      "mod",
                      "qol"
@@ -7365,7 +7365,7 @@
     {
         "id":  "k_HLT_TBM",
         "displayName":  "HLT Ballistic Missile Launchers",
-        "description":  "adds HLT Ballistic Missile Launcher and Ballistic Missile Launcher.",
+        "description":  "Добавляет пусковую установку HLT Ballistic Missile Launcher и Ballistic Missile Launcher.",
         "tags":  [
                      "mod",
                      "vehicle",
@@ -7407,7 +7407,7 @@
     {
         "id":  "k_TBM_MWC",
         "displayName":  "Piledriver Maneuverable Warhead Carrier",
-        "description":  "A quasi-ballistic Piledriver that carries three maneuverable warheads.Include HLT/MSV launchers.",
+        "description":  "Квазибаллистический Piledriver, несущий три маневрирующих боевых части. Включает пусковые HLT/MSV.",
         "tags":  [
                      "mod",
                      "weapon",
@@ -7604,7 +7604,7 @@
     {
         "id":  "KestrelCompatibility",
         "displayName":  "Kestrel Compatibility Fix",
-        "description":  "Temporary compatibility fix for the FQ-106 Kestrel on Nuclear Option 0.34.",
+        "description":  "Временное исправление совместимости для FQ-106 Kestrel на Nuclear Option 0.34.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -7645,7 +7645,7 @@
     {
         "id":  "klawshout_voice",
         "displayName":  "KlawShout",
-        "description":  "[Voice Pack] High-energy personality for intense combat.",
+        "description":  "[Голосовой пакет] Высокоэнергетический характер для интенсивного боя.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -7831,7 +7831,7 @@
     {
         "id":  "LaunchAuthorizationPlus",
         "displayName":  "Launch Authorization+",
-        "description":  "Evaluates each selected target against its own launch acceptable region instead of all-or-nothing. Flags targets out of range/arc/lase, and can restrict fire to only the targets that currently qualify (Strict), with an optional one-launch-per-target mode (Strict Fire Once). Covers missiles, bombs, laser-guided weapons and glide bombs.",
+        "description":  "Оценивает каждую выбранную цель по её собственной зоне допустимого пуска вместо принципа «всё или ничего». Помечает цели вне дальности/сектора/подсветки и может ограничить огонь только целями, которые сейчас подходят (Strict), с необязательным режимом одного пуска на цель (Strict Fire Once). Охватывает ракеты, бомбы, лазерно-управляемое оружие и корректируемые бомбы.",
         "tags":  [
                      "QoL"
                  ],
@@ -7864,7 +7864,7 @@
     {
         "id":  "LiveryDownloader",
         "displayName":  "Livery Downloader",
-        "description":  "Automatically downloads liveries in multiplayer, without cluttering up your livery list.",
+        "description":  "Автоматически скачивает камуфляжи в мультиплеере, не забивая ваш список камуфляжей.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -7897,7 +7897,7 @@
     {
         "id":  "LiveryManager",
         "displayName":  "Livery Manager",
-        "description":  "Tiny clientside mod to make dealing with lots of liveries a little less horrible.",
+        "description":  "Крошечный клиентский мод, чтобы возня со множеством камуфляжей была чуть менее ужасной.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -8057,7 +8057,7 @@
     {
         "id":  "LocalizationPatch.Belarusian",
         "displayName":  "Belarusian Localization Patch",
-        "description":  "Belarusian (Беларуская) translation for Nuclear Option. Full translation including UI, missions, scenarios, vehicles, weapons.",
+        "description":  "Белорусская (Беларуская) перевод Nuclear Option. Полный перевод: интерфейс, миссии, сценарии, техника, оружие.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -8117,7 +8117,7 @@
     {
         "id":  "LocalizationPatch.French",
         "displayName":  "French Localization Patch",
-        "description":  "French (Français) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+        "description":  "Французский (Français) перевод Nuclear Option. Переводит интерфейс, энциклопедию, подсказки и тултипы — 1 427 записей.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -8465,7 +8465,7 @@
     {
         "id":  "LocalizationPatch.German",
         "displayName":  "German Localization Patch",
-        "description":  "German (Deutsch) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+        "description":  "Немецкий (Deutsch) перевод Nuclear Option. Переводит интерфейс, энциклопедию, подсказки и тултипы — 1 427 записей.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -8813,7 +8813,7 @@
     {
         "id":  "LocalizationPatch.Korean",
         "displayName":  "Korean Localization Patch",
-        "description":  "Korean (한국어) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+        "description":  "Корейский (한국어) перевод Nuclear Option. Переводит интерфейс, энциклопедию, подсказки и тултипы — 1 427 записей.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -9188,7 +9188,7 @@
     {
         "id":  "LocalizationPatch.Russian",
         "displayName":  "Russian Localization Patch",
-        "description":  "Russian (Русский) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+        "description":  "Русский перевод Nuclear Option. Переводит интерфейс, энциклопедию, подсказки и тултипы — 1 427 записей.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -9698,7 +9698,7 @@
     {
         "id":  "LocalizationPatch.Spanish",
         "displayName":  "Spanish Localization Patch",
-        "description":  "Spanish (Español) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+        "description":  "Испанский (Español) перевод Nuclear Option. Переводит интерфейс, энциклопедию, подсказки и тултипы — 1 427 записей.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -10046,7 +10046,7 @@
     {
         "id":  "LocalizationPatch.Ukrainian",
         "displayName":  "Ukrainian Localization Patch",
-        "description":  "Ukrainian (Українська) translation for Nuclear Option. ~1800 translated strings including UI, missions, scenarios, vehicles, weapons.",
+        "description":  "Украинский (Українська) перевод Nuclear Option. ~1800 переведённых строк, включая интерфейс, миссии, сценарии, технику и оружие.",
         "tags":  [
                      "mod",
                      "Localization"
@@ -10115,7 +10115,7 @@
     {
         "id":  "LockToneShootPing",
         "displayName":  "Lock Shoot Tone Ping",
-        "description":  "Adds Lock Tones. Similar to the Lock Shoot mod by JUSTJ7780 but supports the vast majority of weapon types. Tones can scale with distance if desired. Tones can only be played once of status changed if desired. Mod contains a pack handling system allowing for the quick import of audio and settings. Instructions on how to use mod are present in the README on Github.",
+        "description":  "Добавляет тоны захвата. Похоже на мод Lock Shoot от JUSTJ7780, но поддерживает подавляющее большинство типов оружия. Тон может масштабироваться по расстоянию по желанию. Тон может звучать один раз при смене статуса — тоже по желанию. Мод содержит систему пакетов для быстрого импорта аудио и настроек. Инструкция — в README на GitHub.",
         "tags":  [
                      "Sound",
                      "QoL",
@@ -10185,7 +10185,7 @@
     {
         "id":  "MapLoader",
         "displayName":  "Custom Map Loader",
-        "description":  "Load custom terrain and maps via AssetBundles. Create and share custom battle environments.",
+        "description":  "Загрузка пользовательских рельефов и карт через AssetBundles. Создавайте и делитесь собственными боевыми аренами.",
         "tags":  [
                      "Terrain"
                  ],
@@ -10216,7 +10216,7 @@
     {
         "id":  "MapMouseSelect",
         "displayName":  "Map Mouse Select",
-        "description":  "Box/marquee selection on the map, more target designation hotkeys in flight, safe exit hotkey, frame limiter and misc. other bugfixes and improvements.",
+        "description":  "Выделение рамкой на карте, дополнительные горячие клавиши назначения цели в полёте, безопасная клавиша выхода, ограничитель кадров и прочие исправления и улучшения.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -10398,7 +10398,7 @@
     {
         "id":  "MFDCustomizer",
         "displayName":  "MFD Customizer",
-        "description":  "Display custom videos, images, and live streams on the Multi-Function Displays (MFDs) of your Nuclear Option cockpit. Per-aircraft slot layouts for all 12 aircraft, multi-slot system (each physical MFD screen can hold a different source), YouTube/Twitch URL playback via bundled yt-dlp, live streams via ffmpeg, in-game edit mode, rotation support.",
+        "description":  "Выводите свои видео, изображения и прямые трансляции на многофункциональные дисплеи (МФД) кабины Nuclear Option. Раскладки слотов для каждого из 12 самолётов, многослотовая система (у каждого физического экрана МФД свой источник), воспроизведение URL YouTube/Twitch через встроенный yt-dlp, прямые трансляции через ffmpeg, режим редактирования в игре, поддержка чередования.",
         "tags":  [
                      "mod"
                  ],
@@ -10475,7 +10475,7 @@
     {
         "id":  "MFDVideoPlayer",
         "displayName":  "MFD Video Player",
-        "description":  "Play custom videos on the MFD display in-game. Supports YouTube and Twitch streaming via yt-dlp.",
+        "description":  "Воспроизведение своих видео на МФД в игре. Поддерживает YouTube и Twitch через yt-dlp.",
         "tags":  [
                      "Flavor"
                  ],
@@ -10718,7 +10718,7 @@
     {
         "id":  "MissileCameraRemoteControl",
         "displayName":  "Missile Camera: Remote Control",
-        "description":  "Remote-control DL/SATCOM munitions via MissileCamera fullscreen: aim, throttle, afterburner, and formation follow.",
+        "description":  "Дистанционное управление боеприпасами ДЛ/САТКОМ через полноэкранную MissileCamera: прицеливание, газ, форсаж и сопровождение строем.",
         "tags":  [
                      "QoL",
                      "Weapons"
@@ -10818,7 +10818,7 @@
     {
         "id":  "MissileCamNO",
         "displayName":  "MissileCamNO",
-        "description":  "Cycle through and follow your own in-flight missiles using \u0027[\u0027 and \u0027]\u0027 while flying. RWR/missile warnings keep playing. Press \u0027;\u0027 (configurable) to snap the camera back to your aircraft\u0027s cockpit.",
+        "description":  "Переключайтесь между своими ракетами в полёте и следите за ними по «[» и «]». Предупреждения РЛС и о ракетах продолжают звучать. «;» (настраивается) возвращает камеру в кабину.",
         "tags":  [
                      "QoL",
                      "Camera"
@@ -10869,7 +10869,7 @@
     {
         "id":  "MouseDPI",
         "displayName":  "MouseDPI",
-        "description":  "Scales the mouse input driving the virtual joystick past the sensitivity slider\u0027s ceiling, configured as the DPI your mouse has and the DPI you would like it to behave as.",
+        "description":  "Масштабирует ввод мыши, управляющий виртуальным джойстиком, за пределы ползунка чувствительности: задаёте DPI вашей мыши и DPI, с которым она должна вести себя.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -11065,7 +11065,7 @@
     {
         "id":  "MultiplayerLobbyFixes",
         "displayName":  "Multiplayer Lobby Fixes",
-        "description":  "A mod that fixes the server list (best-effort until devs fix it for real), overhauls it and the filter list, and fixes all known to me issues with Steam joins.",
+        "description":  "Мод чинит список серверов (по возможности, пока разработчики не сделают это по-настоящему), перерабатывает его и фильтры, а также устраняет все известные мне проблемы с подключениями через Steam.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -11116,7 +11116,7 @@
     {
         "id":  "MusicRandomizer",
         "displayName":  "Music Randomizer",
-        "description":  "Replays and randomizes aircraft takeoff music, with a configurable cooldown between aircraft songs.",
+        "description":  "Воспроизводит и рандомизирует музыку взлёта самолётов с настраиваемой паузой между песнями.",
         "tags":  [
                      "QoL",
                      "Flavor"
@@ -11167,7 +11167,7 @@
     {
         "id":  "NavalPower",
         "displayName":  "Naval Power",
-        "description":  "Command ships, airfields and their air wings, Sea Power style: task forces in formation, named air wings that fly and fight together, strikes, escorts, manual weapons, ROE, EMCON, damage control, carrier and airfield flight operations, camera feeds, and taking the controls yourself. Commanding requires single-player or the mission host.",
+        "description":  "Командуйте кораблями, аэродромами и их авиагруппами в духе Sea Power: соединения в строю, именованные авиагруппы, летающие и сражающиеся вместе, удары, прикрытие, ручное применение оружия, правила применения огня, EMCON, контроль повреждений, операции авианосцев и аэродромов, камеры и самостоятельное взятие управления. Командование требует одиночной игры или хоста миссии.",
         "tags":  [
                      "Ship",
                      "Command",
@@ -11389,7 +11389,7 @@
     {
         "id":  "neutral.alarmsystem",
         "displayName":  "Alarm System",
-        "description":  "Functional air raid and ship alarm sirens",
+        "description":  "Рабочие сирены воздушной тревоги и корабельной боевой тревоги.",
         "tags":  [
                      "Audio"
                  ],
@@ -11433,7 +11433,7 @@
     {
         "id":  "neutral.both.brakes",
         "displayName":  "BothBrakesMod",
-        "description":  "Client-sided keybind to TOGGLE both or either air/wheel brakes",
+        "description":  "Клиентская горячая клавиша для ПЕРЕКЛЮЧЕНИЯ обоих или любого из тормозов — воздушных/колёсных.",
         "tags":  [
                      "Gameplay"
                  ],
@@ -11507,7 +11507,7 @@
     {
         "id":  "neutral.keybinded.filter",
         "displayName":  "Keybinded Filter",
-        "description":  "Switch Filter Preset with Hotkey, reducing cognitive load in the heat of combat.",
+        "description":  "Переключение пресета фильтра по горячей клавише, чтобы меньше нагружать голову в жару боя.",
         "tags":  [
                      "Gameplay"
                  ],
@@ -11572,7 +11572,7 @@
     {
         "id":  "neutral.rain",
         "displayName":  "Nuclear Rain",
-        "description":  "Rain in Nuclear Option",
+        "description":  "Дождь в Nuclear Option.",
         "tags":  [
                      "QoL",
                      "Visual"
@@ -11623,7 +11623,7 @@
     {
         "id":  "neutral.sline",
         "displayName":  "Sline",
-        "description":  "Multi-color lines that allows you to see the intended target of all missile and units in real time",
+        "description":  "Многоцветные линии, позволяющие видеть в реальном времени намеренную цель всех ракет и юнитов.",
         "tags":  [
                      "Gameplay"
                  ],
@@ -11724,7 +11724,7 @@
     {
         "id":  "neutral.surface.loadout",
         "displayName":  "Surface Loadout",
-        "description":  "Configure the loadout of surface unit (Vehicles, Building, Ship).",
+        "description":  "Настройка оснащения наземных юнитов (машины, здания, корабли).",
         "tags":  [
                      "Gameplay"
                  ],
@@ -11806,7 +11806,7 @@
     {
         "id":  "NO_ChatUI",
         "displayName":  "Chat UI",
-        "description":  "Allows separating General Chat and Kill Feed panels, adjusting their locations and sizes, and scrolling through their histories.",
+        "description":  "Позволяет разделить панели общего чата и ленты убийств, настраивать их расположение и размеры, а также прокручивать историю.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -11877,7 +11877,7 @@
     {
         "id":  "NO_ShowAirbases",
         "displayName":  "Show Airbases",
-        "description":  "Allows showing airbase icons while spawned in. Toggled in Bepinex config, or with an optionally assigned hotkey when Extra Input Framework is loaded (supports hold and toggle modes).",
+        "description":  "Показывает значки аэродромов во время матча. Переключается в конфиге BepInEx или назначенной горячей клавишей при наличии Extra Input Framework (поддерживает режимы удержания и переключения).",
         "tags":  [
                      "mod",
                      "QoL",
@@ -11926,7 +11926,7 @@
     {
         "id":  "NO_Tactitools-plus",
         "displayName":  "NO TactiTools (plus)",
-        "description":  "A fork of Nuclear Option Tactical Tools with many, many additional QoL features.",
+        "description":  "Форк Nuclear Option Tactical Tools со множеством-множеством дополнительных удобных функций.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -12570,7 +12570,7 @@
     {
         "id":  "NO-MissionMenuSearch",
         "displayName":  "NO-MissionMenuSearch",
-        "description":  "Adds a search bar in the mission select to make selecting missions easier.",
+        "description":  "Добавляет строку поиска в выборе миссий, чтобы выбирать их было проще.",
         "tags":  [
                      "mod"
                  ],
@@ -12602,7 +12602,7 @@
     {
         "id":  "NO-MoarLasers",
         "displayName":  "Moar Lases",
-        "description":  "Description: This mod changes the amount of targets that an aircraft can laser designate at once. For example, a cricket can lase 2 targets in the base game. With the basic configuration- Moar Lasers allows you to laser designate 5 targets or more via the config variables.",
+        "description":  "Изменяет количество целей, которые самолёт может подсвечивать лазером одновременно. Например, в штатной игре кузнечик может подсвечивать 2 цели. С базовой настройкой Moar Lasers можно подсвечивать 5 и более целей через переменные конфигурации.",
         "tags":  [
                      "Mod",
                      "Flavour"
@@ -12641,7 +12641,7 @@
     {
         "id":  "NoAbsoluteZoom",
         "displayName":  "NoAbsoluteZoom",
-        "description":  "Absolute-axis zoom: the position of a throttle slider or lever is the zoom level.",
+        "description":  "Зум по абсолютной оси: положение ползунка газа — это уровень масштаба.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -12766,7 +12766,7 @@
     {
         "id":  "NOCobra",
         "displayName":  "The Cobra Button",
-        "description":  "Adds a Cobra / AOA limiter button that disables your plane\u0027s G-Limiter, allowing extreme AOA maneuvers to be performed at high-speeds. Mod is not to be blamed for any missing wings. Works best when flying an Ifrit, but also works (with risk of wings flying off) in most other planes too.",
+        "description":  "Добавляет кнопку «Кобра» / ограничителя угла атаки, отключающую ограничитель перегрузки и позволяющую выполнять экстремальные манёвры по углу атаки на большой скорости. Мод не несёт ответственности за пропавшие крылья. Лучше всего работает на Ifrit, но подходит (с риском отрыва крыльев) и большинству других самолётов.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -12817,7 +12817,7 @@
     {
         "id":  "NOControllerVibration",
         "displayName":  "NOControllerVibration",
-        "description":  "A mod to allow dynamic vibration feedback in Nuclear Option for any controller.",
+        "description":  "Мод даёт динамическую вибрационную отдачу в Nuclear Option для любого геймпада.",
         "tags":  [
                      "mod",
                      "ffb"
@@ -12976,7 +12976,7 @@
     {
         "id":  "NOCounterMeasureKeybinds",
         "displayName":  "Keybinds for Counter Measures",
-        "description":  "Lets you bind countermeasures to dedicated keybinds",
+        "description":  "Позволяет назначить средства противодействия на отдельные горячие клавиши.",
         "tags":  [
                      "mod",
                      "controls",
@@ -13061,7 +13061,7 @@
     {
         "id":  "NOCursorOverride",
         "displayName":  "NOCursorOverride",
-        "description":  "BepInEx plugin for Nuclear Option to replace the Mouse Cursor",
+        "description":  "Плагин BepInEx для Nuclear Option, заменяющий курсор мыши.",
         "tags":  [
                      "QoL"
                  ],
@@ -13093,7 +13093,7 @@
     {
         "id":  "NOCustomMaps",
         "displayName":  "NOCustomMaps",
-        "description":  "Loads custom maps (.nomap files) into Nuclear Option, so they can be picked for missions and multiplayer like the built-in maps. Maps listed as add-ons of this mod are installed with it.",
+        "description":  "Загружает пользовательские карты (.nomap) в Nuclear Option, чтобы их можно было выбирать для миссий и мультиплеера, как встроенные. Карты, указанные как аддоны этого мода, ставятся вместе с ним.",
         "tags":  [
                      "Terrain",
                      "mod"
@@ -13145,7 +13145,7 @@
     {
         "id":  "NOCustomMaps.SwissAlps",
         "displayName":  "Swiss Alps",
-        "description":  "Western Switzerland at true scale, 199,680 m square, from Geneva to Zurich and south to Mont Blanc, with real terrain, roads and six airfields. A map for NOCustomMaps. The server and every player need the same version.",
+        "description":  "Западная Швейцария в натуральную величину, квадрат 199 680 м, от Женевы до Цюриха и на юг до Монблана, с реальным рельефом, дорогами и шестью аэродромами. Карта для NOCustomMaps. Серверу и каждому игроку нужна одна и та же версия.",
         "tags":  [
                      "Terrain",
                      "Map"
@@ -13196,7 +13196,7 @@
     {
         "id":  "NOFFB",
         "displayName":  "NOFFB",
-        "description":  "Force Feedback Plugin for Nuclear Option",
+        "description":  "Плагин Force Feedback для Nuclear Option.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -13265,7 +13265,7 @@
     {
         "id":  "NOFFB2",
         "displayName":  "NOFFB2",
-        "description":  "Using NOFFB by 7ep3s as a reference, reimplements FFB without needing an external executable running, and adds some other features including bumpiness.",
+        "description":  "Переосмысливает FFB на основе NOFFB от 7ep3s без внешней программы, добавляет и другие функции, включая неровности.",
         "tags":  [
                      "mod",
                      "ffb"
@@ -13298,7 +13298,7 @@
     {
         "id":  "NOFrameLimiter",
         "displayName":  "NOFrameLimiter",
-        "description":  "Global FPS limiter for improved performance stability.",
+        "description":  "Глобальный ограничитель FPS для повышения стабильности производительности.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -13337,7 +13337,7 @@
     {
         "id":  "NOImmersiveRearmer",
         "displayName":  "NO Immersive Rearmer",
-        "description":  "Replaces the instant rearming of aircraft and helicopters with a realistic, gradual process. Takes the mass of each round into account and loads ammunition in batches: heavy weapons 1 by 1, light rockets in batches of 4, and aircraft cannons in 20% chunks.",
+        "description":  "Заменяет мгновенное перевооружение самолётов и вертолётов реалистичным постепенным процессом. Учитывает массу каждого снаряда и загружает боеприпасы партиями: тяжёлое оружие по одному, лёгкие ракеты партиями по 4, авиапушки порциями по 20%.",
         "tags":  [
                      "QoL",
                      "immersion"
@@ -13377,7 +13377,7 @@
     {
         "id":  "NOLiveryPlus",
         "displayName":  "Livery Plus",
-        "description":  "A BepInEx mod and unity editor tool combo for making Nuclear option Liveries with full control over the material.",
+        "description":  "Комплекс: мод для BepInEx и инструмент для Unity Editor для создания камуфляжей Nuclear Option с полным контролем над материалом.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -13410,7 +13410,7 @@
     {
         "id":  "NOMapLoader",
         "displayName":  "NOMapLoader",
-        "description":  "Nuclear option map loader",
+        "description":  "Загрузчик карт Nuclear Option.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -13479,7 +13479,7 @@
     {
         "id":  "NoMapOverhaul",
         "displayName":  "NO Map Overhaul",
-        "description":  "Map mod. Draws friendly runways with their numbers on the minimap and full map, a dashed approach line and a RWY callout for ATC on the runway you\u0027re lined up on, planning tools on the full map (bearing and range, range circles, notes that tag contacts, a pen, and a waypoint route), and optional airbase names. Formerly Baanish UI Improvements.",
+        "description":  "Мод карты. Рисует дружественные ВПП с их номерами на миникарте и полной карте, пунктирную линию захода и объявление ВПП для УВД на полосе, на которой вы выстроены, инструменты планирования на полной карте (пеленг и дальность, круги дальности, заметки с привязкой к целям, перо и маршрут путевых точек) и необязательные названия аэродромов. Ранее Baanish UI Improvements.",
         "tags":  [
                      "QoL",
                      "UI"
@@ -13522,7 +13522,7 @@
     {
         "id":  "NOMirrors",
         "displayName":  "NO Mirrors",
-        "description":  "Working cockpit mirrors for Nuclear Option. A BepInEx plugin that makes mirror glass reflect: each mirror renders the view behind the pilot, only while on screen and at a capped rate. Aircraft modders add mirrors without code by naming the glass object NOMirror (settings can go in the name), and other plugins can use its small API. Used by the MiG-29 Fulcrum mod.",
+        "description":  "Рабочие зеркала в кабине Nuclear Option. Плагин BepInEx заставляет стекло зеркал отражать: каждое зеркало рендерит вид за пилотом, только пока на экране и с ограничением частоты. Моддеры самолётов добавляют зеркала без кода, назвав объект стекла NOMirror (настройки — в имени), а другие плагины могут использовать его маленький API. Используется модом MiG-29 Fulcrum.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -13575,7 +13575,7 @@
     {
         "id":  "NoMissileCam",
         "displayName":  "Missile Cam",
-        "description":  "Ride your own missiles, or watch your target. Press ] and the camera follows your missile all the way to the hit, then moves to your next one in flight. Press [ to watch your selected target, and \\ to go back to the cockpit. Keys and joystick buttons can be changed in game with Ctrl+F8.",
+        "description":  "Летите на своих ракетах или наблюдайте за целью. «]» — камера следует за ракетой до самого попадания, затем переключается на следующую в полёте. «[» — наблюдение за выбранной целью, «\\» — возврат в кабину. Клавиши и кнопки джойстика меняются в игре по Ctrl+F8.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -13625,7 +13625,7 @@
     {
         "id":  "NoMissileIndicators",
         "displayName":  "NO Missile Indicators",
-        "description":  "A red arrow on the screen edge toward each incoming missile outside your view, pointing the way to turn. Only missiles the game\u0027s missile warning already knows about get one. Off in player-versus-player games unless you allow it.",
+        "description":  "Красная стрелка у края экрана к каждой входящей ракете вне поля зрения, указывая, куда разворачиваться. Появляются только у ракет, о которых игровая система уже знает. Выключено в PvP-играх, если вы это не разрешите.",
         "tags":  [
                      "QoL",
                      "UI"
@@ -13668,7 +13668,7 @@
     {
         "id":  "NoModBar",
         "displayName":  "NO Mod Bar",
-        "description":  "Give compatible Nuclear Option mods one shared home with a persistent KSP-style toolbar at the top of every game screen. Click a registered mod\u0027s button to open or close its panel, hover to see its name, and hold a rebindable key while flying to free the cursor from mouse-look. Includes in-game position, button-size, and keybind controls plus a load-order-safe registration API for mod authors.",
+        "description":  "Общий дом для совместимых модов Nuclear Option с постоянной панелью в стиле KSP вверху каждого игрового экрана. Нажатие кнопки зарегистрированного мода открывает или закрывает его панель, наведение показывает название, а удержание переназначаемой клавиши в полёте освобождает курсор от мышиного обзора. Включает игровые настройки позиции, размера кнопок и клавиш, а также безопасный по порядку загрузки API регистрации для авторов модов.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -13711,7 +13711,7 @@
     {
         "id":  "NoNukeAftermath",
         "displayName":  "Nuke Aftermath",
-        "description":  "A far bigger nuclear blast that leaves a mark. The game\u0027s own fireball and mushroom cloud grow about 1.6 times bigger and last longer, with a brighter flash, a dust wall along the ground and a condensation ring. Afterwards the ground stays burnt, charred trunks lie flat pointing away from ground zero, and fires and smoke burn for minutes. Client-only and visual-only: other players do not need it, and it changes no damage or gameplay.",
+        "description":  "Гораздо более мощный ядерный взрыв, оставляющий след. Штатное огненное ядро и гриб растут примерно в 1,6 раза и дольше живут: яркая вспышка, пылевая стена по земле и кольцо конденсата. После земля остаётся выжженной, обугленные стволы лежат, указывая от центра взрыва, а пожары и дым горят минутами. Только клиентский и только визуальный: другим игрокам он не нужен, урон и геймплей не меняет.",
         "tags":  [
                      "mod",
                      "Visual",
@@ -13752,7 +13752,7 @@
     {
         "id":  "NOPlayerSlingload",
         "displayName":  "Player Slingload",
-        "description":  "Slingload other players for fun and profit",
+        "description":  "Подхватывайте других игроков на трос — ради удовольствия и прибыли.",
         "tags":  [
                      "mod",
                      "multiplayer"
@@ -13786,7 +13786,7 @@
     {
         "id":  "NoSmoothTime",
         "displayName":  "NoSmoothTime",
-        "description":  "Smooth global lighting for dynamic day-night cycles and night skipping.",
+        "description":  "Плавное глобальное освещение для динамического цикла дня и ночи и пропуска ночи.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -13842,7 +13842,7 @@
     {
         "id":  "NOStatsLogger",
         "displayName":  "NO Stats Logger",
-        "description":  "Tracks flight statistics, air/ground kills, landings, and ejections. Features a detailed statistics UI in the main menu and saves flight logs to CSV.",
+        "description":  "Отслеживает статистику полётов, воздушные и наземные убийства, посадки и катапультирования. Подробный интерфейс статистики в главном меню и сохранение журналов полётов в CSV.",
         "tags":  [
                      "QoL",
                      "Utility"
@@ -13891,7 +13891,7 @@
     {
         "id":  "NOVor",
         "displayName":  "NO VOR CDI",
-        "description":  "Turn every airfield and mobile carrier into an in-cockpit navigation destination. A searchable, faction-aware panel shows bearing, range, runway courses, ground speed, ETA, and elevation, while heading-tape cues and a VOR-style CDI provide direct-to guidance or manual-course tracking. Includes nearest/name sorting, friendly-only filtering, a position-adjustable HUD, and configurable hotkeys. Supports NO Mod Bar for one-click access to the navigation panel.",
+        "description":  "Превращает каждый аэродром и мобильный авианосец в точку навигации из кабины. Поисковая панель с учётом фракций показывает пеленг, дальность, курсы ВПП, путевую скорость, время прибытия и высоту, а индикаторы курсовой шкалы и CDI в стиле VOR дают прямой выход на цель или ручное слежение за курсом. Включает сортировку по ближайшему/названию, фильтр только дружественных, HUD с настраиваемой позицией и горячие клавиши. Поддерживает NO Mod Bar для доступа к панели навигации в один клик.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -13935,7 +13935,7 @@
     {
         "id":  "NOVRMod",
         "displayName":  "Unofficial VR Preview Mod",
-        "description":  "Collection of fixes to get UUVR work with Nuclear Option",
+        "description":  "Набор исправлений для работы UUVR с Nuclear Option.",
         "tags":  [
                      "mod",
                      "vr"
@@ -14021,7 +14021,7 @@
     {
         "id":  "NoWingmen",
         "displayName":  "NoWingmen",
-        "description":  "Extra team and wing visuals\n\n- **Wing** - mark any player of your faction as a wingman: pause, right-click them on the leaderboard, and pick *Toggle in wing*.\n- **Teammates** - automatically mark every other player aircraft of your faction.\n- **Target selection** - mark the enemies your wing and your teammates have already selected, and draw a line on the map from each of them to their target.\n- **Wing screen** - a *WNG* page on the map\u0027s MFD: mod options and your wing roster.\n- **Lock prevention** - skip enemies already selected by others when cycling targets. Toggled in flight by a hotkey.\n\nMarks are color-coded and can be customized in game\u0027s **Accessibility** settings in **Advanced** mode under **NoWingmen Marks** section.\n\nThe lock prevention hotkey is bound in the game\u0027s own **Controls** menu, under the **Gameplay** section.",
+        "description":  "Дополнительные визуальные эффекты группы и ведомого.\n\n- **Wing** — отметьте любого игрока вашей фракции как ведомого: поставьте паузу, щёлкните по нему правой кнопкой в таблице лидеров и выберите *Toggle in wing*.\n- **Teammates** — автоматически отмечает всех остальных игроков вашей фракции.\n- **Target selection** — отмечает врагов, уже выбранных вашим звеном и товарищами по команде, и проводит линию на карте от каждого из них к его цели.\n- **Wing screen** — страница *WNG* на МФД карты: настройки мода и состав вашего звена.\n- **Lock prevention** — пропускает врагов, уже выбранных другими, при переборе целей. Переключается горячей клавишей в полёте.\n\nОтметки окрашены по цветам и настраиваются в настройках **Доступность** игры в режиме **Advanced** в разделе **NoWingmen Marks**.\n\nГорягая клавиша предотвращения захвата назначается в собственном меню **Управление** игры, в разделе **Gameplay**.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -14174,7 +14174,7 @@
     {
         "id":  "NOWinWingBridge",
         "displayName":  "Winwing Vibration Bridge",
-        "description":  "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks. Needs Winwing SimAppPro.",
+        "description":  "Эта сборка телеметрического кода NOFFB привносит функциональность вибромоторов в авиационные джойстики WinWing. Нужен Winwing SimAppPro.",
         "tags":  [
                      "mod",
                      "qol"
@@ -15508,7 +15508,7 @@
     {
         "id":  "Nuclear-Option-Mod-WingmanVisual",
         "displayName":  "WingmanVisual",
-        "description":  "A client-side mod that adds wingman highlighting in Nuclear Option.",
+        "description":  "Клиентский мод, добавляющий подсветку ведомых в Nuclear Option.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -15559,7 +15559,7 @@
     {
         "id":  "NuclearOption-InfiniteAmmo",
         "displayName":  "Infinite Ammo",
-        "description":  "Rearms ALL weapon stations (including linked guns and AI-gunner stations) and ALL countermeasure dispensers when empty, and refuels at low fuel. SINGLEPLAYER ONLY - rearm/refuel writes are server-authoritative and ignored on real multiplayer servers.",
+        "description":  "Перевооружает ВСЕ огневые точки (включая спаренные пушки и пушки ИИ-стрелков) и ВСЕ выпускающие устройства противодействия при исчерпании, а дозаправляет при малом топливе. ТОЛЬКО ДЛЯ ОДИНОЧНОЙ ИГРЫ — записи перевооружения/дозаправки выполняются сервером и игнорируются на настоящих серверах мультиплеера.",
         "tags":  [
                      "cheat",
                      "singleplayer",
@@ -15621,7 +15621,7 @@
     {
         "id":  "NuclearOption-MFDBlockBlast",
         "displayName":  "MFD Block Blast",
-        "description":  "Block Blast puzzle game on your MFD cockpit display in Nuclear Option",
+        "description":  "Головоломка Block Blast на отображении МФД кабины в Nuclear Option.",
         "tags":  [
                      "mod"
                  ],
@@ -15653,7 +15653,7 @@
     {
         "id":  "NuclearOption-MouseAim",
         "displayName":  "WT Mouse Aim",
-        "description":  "War Thunder-style point-and-chase mouse aim for Nuclear Option. The mouse moves a world-locked aim marker; a thin instructor rolls the aircraft\u0027s lift vector onto it then pulls up into it, and levels out as the nose arrives. The game\u0027s own fly-by-wire still governs the envelope. Includes cockpit and third-person camera follow, per-axis manual stick override, RMB free-look, a Fly Level autopilot toggle, and 50+ live-tunable parameters (F1 via BepInEx ConfigurationManager).",
+        "description":  "Мышинный прицел «наведи и преследуй» в стиле War Thunder для Nuclear Option. Мышь двигает привязанную к миру отметку прицеливания; тонкий инструктор накатывает вектор подъёмной силы самолёта на неё и подтягивает в неё, а затем выравнивает нос. Штатная fly-by-wire по-прежнему управляет пределами. Включает следящую камеру в кабине и от третьего лица, ручное переопределение РУС по осям, обзор ПКМ, переключатель автопилота Fly Level и 50+ параметров на лету (F1 через BepInEx ConfigurationManager).",
         "tags":  [
                      "flight control",
                      "mouse",
@@ -15858,7 +15858,7 @@
     {
         "id":  "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails",
         "displayName":  "Simple Missile \u0026 Bomb Tracker + Tac Map Trails",
-        "description":  "Shows missile and bomb flight paths, hits, interceptions, and misses on the tactical map and cockpit radar.",
+        "description":  "Показывает траектории полёта ракет и бомб, попадания, перехваты и промахи на тактической карте и радаре кабины.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -15905,7 +15905,7 @@
     {
         "id":  "NuclearOption-Target-Group-Recall-and-Missile-Defense",
         "displayName":  "Target Group Recall and Missile Defense",
-        "description":  "Saves and recalls target groups, or quickly targets all detected incoming missiles.",
+        "description":  "Сохраняет и вызывает группы целей, а также быстро назначает все обнаруженные входящие ракеты.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -15942,7 +15942,7 @@
     {
         "id":  "NuclearOption-ThrustBoost",
         "displayName":  "Thrust Boost",
-        "description":  "Adds an adjustable aircraft thrust multiplier for single-player missions.",
+        "description":  "Добавляет настраиваемый множитель тяги самолёта для одиночных миссий.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -15980,7 +15980,7 @@
     {
         "id":  "NuclearOptionBuilder",
         "displayName":  "Nuclear Option Builder",
-        "description":  "Mod that allows for the building of structures, vehicles, and ships with some simple game mechanics that make sense for Nuclear Options\u0027 battlefield.",
+        "description":  "Мод для строительства конструкций, машин и кораблей с простыми игровыми механиками, осмысленными для поля боя Nuclear Option.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -16043,7 +16043,7 @@
     {
         "id":  "NuclearOptionCommander",
         "displayName":  "NO Commander",
-        "description":  "RTS-style features for Nucklear Option - 3D unit command, unit spawning, supply and air missions",
+        "description":  "Функции в стиле RTS для Nuclear Option — 3D-командование юнитами, призыв юнитов, снабжение и воздушные миссии.",
         "tags":  [
                      "Gameplay"
                  ],
@@ -16081,7 +16081,7 @@
     {
         "id":  "NuclearOptionControllerTuner",
         "displayName":  "Nuclear Option Controller Tuner",
-        "description":  "Adds per-axis response curves (Linear, Power, SCurve, Logistic, Cubic) for any gamepad. Tune deadzone, saturation, shape, sensitivity, and inversion individually for Pitch, Roll, Yaw, Pan View, and Tilt View. Works with DualSense, Xbox controllers, generic gamepads, joysticks, and rudder pedals via Rewired. Keyboard and mouse pass through untouched.",
+        "description":  "Добавляет кривые отклика по осям (Линейная, Степенная, S-образная, Логистическая, Кубическая) для любого геймпада. Настройте мёртвую зону, насыщение, форму, чувствительность и инверсию отдельно для тангажа, крена, рыскания, обзора по горизонтали и вертикали. Работает с DualSense, геймпадами Xbox, универсальными геймпадами, джойстиками и педалями через Rewired. Клавиатура и мышь не затрагиваются.",
         "tags":  [
                      "QoL"
                  ],
@@ -16116,7 +16116,7 @@
     {
         "id":  "NuclearOptionDetents",
         "displayName":  "Nuclear Option Detents",
-        "description":  "Adds configurable hold detents at idle airbrake and full-dry/afterburner changeovers for supported aircraft using relative throttle controls.",
+        "description":  "Добавляет настраиваемые фиксаторы на холостом ходу, торможении и переходах полная тяга/форсаж для поддерживаемых самолётов с относительным управлением газом.",
         "tags":  [
                      "QoL",
                      "Gameplay"
@@ -16213,7 +16213,7 @@
     {
         "id":  "NuclearOptionVRFix",
         "displayName":  "NuclearOptionVRFix",
-        "description":  "Nuclear Option Camera Fix for uuvr",
+        "description":  "Исправление камеры Nuclear Option для uuvr.",
         "tags":  [
                      "mod",
                      "vr"
@@ -16402,7 +16402,7 @@
     {
         "id":  "NuclearReplay",
         "displayName":  "Nuclear Replay",
-        "description":  "Records the matches you host and replays them inside the game: free camera, 7 camera styles, speed 0.25x to 4x, and Clip this to save any moment as a video. Replays are watched offline from the main menu.",
+        "description":  "Записывает ваши матчи и воспроизводит их прямо в игре: свободная камера, 7 стилей камеры, скорость от 0,25x до 4x и «Clip this», чтобы сохранить любой момент в видео. Повторы просматриваются офлайн из главного меню.",
         "tags":  [
                      "mod",
                      "Utility",
@@ -16453,7 +16453,7 @@
     {
         "id":  "NuclearVOIP",
         "displayName":  "NuclearVOIP",
-        "description":  "Adds in game voice chat to Nuclear Option",
+        "description":  "Добавляет в Nuclear Option голосовой чат.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -16496,7 +16496,7 @@
     {
         "id":  "NVGConfig",
         "displayName":  "NVG Config",
-        "description":  "Improved NVG for Nuclear Option. Provides both built in and customizable NvG filters.",
+        "description":  "Улучшенные НПН для Nuclear Option. Предоставляет как встроенные, так и настраиваемые фильтры ночного видения.",
         "tags":  [
                      "QoL",
                      "mod",
@@ -16537,7 +16537,7 @@
     {
         "id":  "OneLife",
         "displayName":  "One Life Only",
-        "description":  "Mod that adds rescue requirement to allow ejected players to respawn, and adds respawn cooldown to dead players. This mod is a WIP! There are bugs that\u0027re trying to be fixed, so please be patient :)",
+        "description":  "Мод, требующий спасения, чтобы катапультированные игроки могли возродиться, и добавляющий перезарядку возрождения для погибших. Мод в работе! Есть ошибки, которые пытаются исправить, поэтому будьте терпеливы :)",
         "tags":  [
                      "mod",
                      "QoL",
@@ -16623,7 +16623,7 @@
     {
         "id":  "Oritasy",
         "displayName":  "Oritasy",
-        "description":  "Nuclear Option gameplay pack: hangar aircraft, flight assists, HUD tools, WeXon weapons, TGM-85. Standard Edition (EN/ZH). Copy zip contents into BepInEx/plugins. Replaces the old com.iallemege.oritasy listing. Do not also load the D edition (same plugin GUID).",
+        "description":  "Игровой пакет Nuclear Option: самолёты в ангаре, помощники полёта, инструменты HUD, оружие WeXon, TGM-85. Стандартное издание (EN/ZH). Скопируйте содержимое zip в BepInEx/plugins. Заменяет старый листинг com.iallemege.oritasy. Не загружайте также издание D (тот же GUID плагина).",
         "tags":  [
                      "Aircraft",
                      "QoL",
@@ -16860,7 +16860,7 @@
     {
         "id":  "Pauel3312.NOKillWeapons",
         "displayName":  "NOKillWeapons",
-        "description":  "Displays weapons used for kills in the killfeed. Only works in single player.",
+        "description":  "Показывает оружие, использованное для убийств, в ленте убийств. Работает только в одиночной игре.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -16920,7 +16920,7 @@
     {
         "id":  "Pauel3312.NOMissingWeapons",
         "displayName":  "NOMissingWeapons",
-        "description":  "Discounts ammo when weapons are shot off your aircraft.",
+        "description":  "Списывает боеприпасы, когда оружие сбито с вашего самолёта.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -16980,7 +16980,7 @@
     {
         "id":  "Pauel3312.PauelsRandomFixes",
         "displayName":  "PauelsRandomFixes",
-        "description":  "Random fixes for Nuclear Option. All fixes are configurable and can be disabled separately at any time.",
+        "description":  "Случайные исправления для Nuclear Option. Все исправления настраиваются и могут быть отключены по отдельности в любой момент.",
         "tags":  [
                      "mod",
                      "QoL"
@@ -17085,7 +17085,7 @@
     {
         "id":  "Phantasms-Arsenal",
         "displayName":  "Phantasm\u0027s Arsenal",
-        "description":  "An actively updated combined weapon pack bringing Poseidon anti-ship cruise missiles, HSM-290 Killjoy conventional and nuclear ballistic missiles, Apex attack drones and cargo pallets, and Circuit Breaker\u0027s Blackout microwave suppression missile, Locust contact mines and Lawn Chair/Zhdan sensor mines into one DLL with an embedded Blueprinter bundle. Future weapon updates will be delivered through this combined pack; the existing standalone mod repositories and manifests remain unchanged. Remove the separate Poseidon, Killjoy, Apex and Circuit Breaker DLLs and bundles before installing to avoid duplicate weapons and runtime patches. Requires Blueprinter 2.0.1 or newer.",
+        "description":  "Активно обновляемый сводный оружейный пакет: антикорабельные крылатые ракеты Poseidon, баллистические ракеты HSM-290 Killjoy (обычная и ядерная), ударные дроны Apex и грузовые платформы, а также ракета подавления Blackout, контактные мины Locust и сенсорные мины Lawn Chair/Zhdan из Circuit Breaker — всё в одном DLL со встроенным бандлом Blueprinter. Будущие обновления оружия будут приходить через этот сводный пакет; существующие отдельные репозитории и манифесты не меняются. Удалите отдельные DLL и бандлы Poseidon, Killjoy, Apex и Circuit Breaker перед установкой, чтобы избежать дублирования оружия и патчей времени выполнения. Требуется Blueprinter 2.0.1 или новее.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -17160,7 +17160,7 @@
     {
         "id":  "PilotModelReplacer",
         "displayName":  "Pilot Model Replacer",
-        "description":  "Mod for Nuclear Option that replaces the pilot model with another character. This mod comes with 5 different characters that you can swap the pilot with and you can even create your own",
+        "description":  "Мод для Nuclear Option, заменяющий модель пилота на другого персонажа. Идёт с 5 персонажами на выбор, можно создать и своего.",
         "tags":  [
                      "Flavour"
                  ],
@@ -17192,7 +17192,7 @@
     {
         "id":  "pixy_voice",
         "displayName":  "Pixy",
-        "description":  "[Voice Pack] Solo Wing Pixy combat dialogue.",
+        "description":  "[Голосовой пакет] Боевые диалоги Одиночного Крыла Pixy.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -17274,7 +17274,7 @@
     {
         "id":  "PoseidonTELRuntime",
         "displayName":  "R-460 Poseidon",
-        "description":  "Anti-ship cruise missile for aircraft and a mobile TEL launcher with naval target filtering.",
+        "description":  "Антикорабельная крылатая ракета для самолётов и мобильная пусковая ТЭЛ с фильтрацией морских целей.",
         "tags":  [
                      "mod",
                      "Weapon",
@@ -17378,7 +17378,7 @@
     {
         "id":  "prez_voice",
         "displayName":  "Prez",
-        "description":  "[Voice Pack] Classic backseater dialogue lines.",
+        "description":  "[Голосовой пакет] Классические реплики бортоператора.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -17412,7 +17412,7 @@
     {
         "id":  "QuartermasterMod",
         "displayName":  "Quartermaster",
-        "description":  "Adds your own options to the convoy purchase menu, read from a quartermaster.json that sits beside the DLL. Write a list a name, a cooldown, an optional icon and the unit ids it contains, and it appears in the donate menu priced off the units themselves. Lists can be grouped into sections and restricted to particular factions. Includes an in-game editor that lists every ground vehicle in the game and writes the file for you. In multiplayer everyone uses the host\u0027s file: the host publishes a fingerprint of its list and a player whose list disagrees loses their custom options for the mission rather than buying the wrong bundle.",
+        "description":  "Добавляет ваши собственные позиции в меню закупки конвоя, читая quartermaster.json рядом с DLL. Напишите список: название, кулдаун, необязательный значок и id юнитов — и он появится в меню пожертвований с ценой по самим юнитам. Списки можно группировать в секции и ограничивать определёнными фракциями. Включает игровой редактор, перечисляющий все наземные машины игры и сам пишущий файл. В мультиплеере все пользуются файлом хоста: хост публикует отпечаток своего списка, а игрок с несовпадающим списком теряет свои позиции на миссию вместо покупки неправильного пакета.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -17513,7 +17513,7 @@
     {
         "id":  "RepeatTakeoffMusic",
         "displayName":  "Repeat Takeoff Music",
-        "description":  "BepInEx plugin that plays each local aircraft takeoff theme once per unit (persistentID). Landing and taking off again in the same aircraft does not replay it; a new spawn gets one more play.",
+        "description":  "Плагин BepInEx, проигрывающий тему взлёта каждого местного самолёта один раз на юнит (persistentID). Посадка и повторный взлёт на том же самолёте не перезапускает тему; новый спавн — ещё одно воспроизведение.",
         "tags":  [
                      "QoL",
                      "Flavor"
@@ -17551,7 +17551,7 @@
     {
         "id":  "RevertToStoneAge",
         "displayName":  "Revert To Stone Age",
-        "description":  "Rebalances air defenses with a configurable upper blind cone for surface radars, stronger radar clutter, slower automatic turret acquisition and traverse, radar-controlled salvo timing limits, laser heat budgets, and six missile motor/actuator malfunctions. Includes visible preset values and Custom settings. Applies to player and AI weapons; preserves native missile seeker lock. Requires BepInEx.",
+        "description":  "Ребаланс ПВО: настраиваемый верхний мёртвый конус для наземных радаров, более сильные помехи радара, замедленный автоматический захват и поворот установок, лимиты темпа залпов по радару, бюджет нагрева лазеров и шесть неисправностей ракетных двигателей/приводов. Включает видимые значения пресетов и настройку Custom. Действует на оружие игроков и ИИ; сохраняет нативный захват головки самонаведения. Требуется BepInEx.",
         "tags":  [
                      "mod",
                      "Gameplay",
@@ -17597,7 +17597,7 @@
     {
         "id":  "RITA_RVWS",
         "displayName":  "RITA: Russian Voice Warning System",
-        "description":  "Replaces Nuclear Option\u0027s English Voice Warning System with Russian equivalents.",
+        "description":  "Заменяет английскую систему голосовых предупреждений Nuclear Option русскими эквивалентами.",
         "tags":  [
                      "Flavour",
                      "Sound"
@@ -17726,7 +17726,7 @@
     {
         "id":  "rykerindustries",
         "displayName":  "Ryker Industries",
-        "description":  "Munition pack by Stryker that adds unique missiles",
+        "description":  "Оружейный пакет от Stryker с уникальными ракетами.",
         "tags":  [
                      "weapons",
                      "blueprinter",
@@ -17767,7 +17767,7 @@
     {
         "id":  "SARAAM1",
         "displayName":  "AAM-21 Glaive",
-        "description":  "Adds the AAM-21 Glaive, Nuclear Option\u0027s first air-to-air SARH missile",
+        "description":  "Добавляет AAM-21 Glaive — первую ракету «воздух-воздух» с полуактивным наведением в Nuclear Option.",
         "tags":  [
                      "Flavour"
                  ],
@@ -17808,7 +17808,7 @@
     {
         "id":  "Sitrep",
         "displayName":  "SITREP",
-        "description":  "Hear in-game chat as immersive radio traffic. SITREP runs Kokoro TTS locally inside Nuclear Option with 28 selectable voices, per-player voice and signal profiles, favorites, a player blacklist, and a configurable radio DSP chain. Includes a cockpit chat overlay and in-game settings console, downloads its speech models automatically on first launch, and requires no external TTS service. Supports NO Mod Bar for one-click access to the settings console.",
+        "description":  "Слышите игровой чат как реалистичную радиопереписку. SITREP запускает Kokoro TTS локально внутри Nuclear Option с 28 голосами, голосовыми и сигнальными профилями на игрока, избранным, чёрным списком и настраиваемой цепочкой радио-DSP. Включает оверлей чата в кабине и игровую консоль настроек, сам скачивает речевые модели при первом запуске и не требует внешних TTS-сервисов. Поддерживает NO Mod Bar для доступа к консоли в один клик.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -17851,7 +17851,7 @@
     {
         "id":  "skyeye_voice",
         "displayName":  "AWACS Sky Eye",
-        "description":  "[Voice Pack] Custom AWACS dialogue lines for Sky Eye.",
+        "description":  "[Голосовой пакет] Пользовательские диалоги AWACS Sky Eye.",
         "tags":  [
                      "voicepack",
                      "QoL"
@@ -17885,7 +17885,7 @@
     {
         "id":  "SmokeTrail",
         "displayName":  "Smoke Trail",
-        "description":  "Airshow smoke trail effects for aircraft. Network-synchronized with in-game keybind and HOTAS support.",
+        "description":  "Эффекты дымных следов авиашоу для самолётов. Сетевая синхронизация, поддержка горячих клавиш и HOTAS.",
         "tags":  [
                      "Flavor",
                      "Aircraft"
@@ -17944,7 +17944,7 @@
     {
         "id":  "Solar_MiG21K",
         "displayName":  "MiG-21K Koschei",
-        "description":  "Adds the MiG-21K Koschei. A rank 2 supersonic multirole interceptor.",
+        "description":  "Добавляет МиГ-21К Кощей. Сверхзвуковой многоцелевой перехватчик 2 ранга.",
         "tags":  [
                      "mod",
                      "Aircraft",
@@ -17990,7 +17990,7 @@
     {
         "id":  "Solar.UI",
         "displayName":  "Solar UI",
-        "description":  "Utilities \u0026 Integrations Library",
+        "description":  "Библиотека утилит и интеграций.",
         "tags":  [
                      "Mod",
                      "UI",
@@ -18031,7 +18031,7 @@
     {
         "id":  "SplitThrottle",
         "displayName":  "Split Throttle",
-        "description":  "Independent engine throttle control for HOTAS dual throttle setups. Each lever controls its own engine side (left/right) with per-engine afterburner effects. Modded clients only match with each other in the lobby browser (Application.version marker).",
+        "description":  "Независимое управление газом двигателей для двухручечных HOTAS. Каждая ручка управляет своей стороной (лево/право) с отдельными эффектами форсажа. Модные клиенты матчатся друг с другом в лобби (маркер Application.version).",
         "tags":  [
                      "mod",
                      "QoL"
@@ -18072,7 +18072,7 @@
     {
         "id":  "TarantulaTiltSensitivity",
         "displayName":  "Tarantula Tilt Sensitivity",
-        "description":  "Adds a fine-control sensitivity curve to the Tarantula\u0027s manual rotor tilt near 0 degrees, so small adjustments around level flight are precise instead of twitchy.",
+        "description":  "Добавляет тонкую кривую чувствительности к ручному наклону винта Tarantula около 0 градусов, чтобы мелкие корректировки у горизонтального полёта были точными, а не дёргаными.",
         "tags":  [
                      "QoL",
                      "Aircraft"
@@ -18105,7 +18105,7 @@
     {
         "id":  "TargetCamControl",
         "displayName":  "Tactical Camera Controller",
-        "description":  "Take manual control of the cockpit target camera for free pan/tilt/zoom even without a target lock, with automatic ground-point tracking. Pan to aim, stop and the plugin raycasts where you\u0027re looking and snaps the camera onto that world point — tracks it as the aircraft moves around (JTAC / lasing-pod style designation). Up to 40× zoom with zoom-aware fine sensitivity, MFD HUD overlay (RNG/ALT/HDG/GRID/MODE/Mag), IR↔Color toggle, floating-origin safe lock storage, self-collision filter, auto-revert when the game locks a real target. Multiplayer compatible — client-side only.",
+        "description":  "Возьмите ручное управление камерой прицеливания из кабины: свободный панорамный обзор/наклон/масштаб даже без захвата цели с автослежением за точкой на земле. Поверните, чтобы прицелиться, остановитесь — плагин делает рейкаст туда, куда вы смотрите, и привязывает камеру к этой точке мира — следит за ней при маневрировании самолёта (назначение в стиле JTAC/прицельного контейнера). Зум до 40x с чувствительной тонкой настройкой по зуму, оверлей HUD на МФД (RNG/ALT/HDG/GRID/MODE/Mag), переключатель ИК↔Цвет, безопасное хранение привязки с плавающим началом координат, фильтр самопересечений, автовозврат при захвате игры настоящую цель. Совместим с мультиплеером — только клиентский.",
         "tags":  [
                      "Mod"
                  ],
@@ -18143,7 +18143,7 @@
     {
         "id":  "TargetEstimator",
         "displayName":  "Target Estimator",
-        "description":  "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity x elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
+        "description":  "Оценивает позицию выбранных целей после потери даталинка по мертвому счислению (последняя известная скорость × прошедшее время). Самолёты: маркер X + линия направления + круг неопределённости (60 с на выбор). Корабли: квадратный маркер + линия направления. Наземные машины: квадратный маркер с привязкой к ближайшей дороге (пересчёт каждые 2 с). F10 — переключение.",
         "tags":  [
                      "mod"
                  ],
@@ -18175,7 +18175,7 @@
     {
         "id":  "TernionVaporTuner",
         "displayName":  "Ternion Vapor Tuner",
-        "description":  "Companion BepInEx plugin that tunes the FS-3 Ternion vapor effects without modifying the original Ternion asset.",
+        "description":  "Плагин-компаньон BepInEx, настраивающий эффекты парения FS-3 Ternion без изменения исходного ассета Ternion.",
         "tags":  [
                      "mod",
                      "plugin",
@@ -18247,7 +18247,7 @@
     {
         "id":  "ThirdFaction",
         "displayName":  "Third Faction",
-        "description":  "Adds a third PMC (Private Military Company) faction to multiplayer and singleplayer missions. PMC units fight independently with their own objectives, airbases, and vehicle deployments.",
+        "description":  "Добавляет третью фракцию ЧВК в мультиплеер и одиночные миссии. Юниты ЧВК воюют самостоятельно, со своими целями, аэродромами и десантированием техники.",
         "tags":  [
                      "Gameplay"
                  ],
@@ -18394,7 +18394,7 @@
     {
         "id":  "ThirdPersonHUDPlusStandalone",
         "displayName":  "Third Person HUD - Standalone",
-        "description":  "Shows the normal flight HUD in Orbit and Chase cameras while following the player\u0027s aircraft.",
+        "description":  "Показывает штатный HUD полёта в камерах Orbit и Chase при слежении за самолётом игрока.",
         "tags":  [
                      "mod",
                      "QoL",
@@ -18454,7 +18454,7 @@
     {
         "id":  "UndelayedThrottle",
         "displayName":  "Undelayed Throttle",
-        "description":  "Removes the hidden negative-throttle dead zone so incremental (gamepad / relative-axis) throttle responds immediately when raising thrust up from idle.",
+        "description":  "Убирает скрытую мёртвую зону отрицательного газа, чтобы инкрементальный (геймпад/относительная ось) газ реагировал сразу при увеличении тяги с холостого.",
         "tags":  [
                      "QoL"
                  ],
@@ -18486,7 +18486,7 @@
     {
         "id":  "UnitCopyPaste",
         "displayName":  "Unit Copy Paste",
-        "description":  "Group copy/paste for units in the mission editor. Ctrl+C to copy, Ctrl+V to paste at cursor, Ctrl+D to duplicate in place.",
+        "description":  "Копирование/вставка групп юнитов в редакторе миссий. Ctrl+C — копировать, Ctrl+V — вставить в курсор, Ctrl+D — дублировать на месте.",
         "tags":  [
                      "QoL"
                  ],
@@ -18591,7 +18591,7 @@
     {
         "id":  "uuvr",
         "displayName":  "uuvr",
-        "description":  "Universal VR mod for Unity games",
+        "description":  "Универсальный VR-мод для игр на Unity.",
         "tags":  [
                      "mod",
                      "vr"
@@ -18654,7 +18654,7 @@
     {
         "id":  "vet.solar.biological",
         "displayName":  "Biological Option",
-        "description":  "Bugfixes and optimizations.",
+        "description":  "Исправления ошибок и оптимизации.",
         "tags":  [
                      "Mod",
                      "QoL",
@@ -18702,7 +18702,7 @@
     {
         "id":  "vet.solar.chemical",
         "displayName":  "Chemical Option",
-        "description":  "Vanilla-compatible QoL features.",
+        "description":  "Удобные функции, совместимые со штатной игрой.",
         "tags":  [
                      "Mod",
                      "QoL",
@@ -18760,7 +18760,7 @@
     {
         "id":  "vet.solar.collimatedhud",
         "displayName":  "Collimated HUD",
-        "description":  "Realistic rendering for the game\u0027s heads-up display.",
+        "description":  "Реалистичная отрисовка HUD игры.",
         "tags":  [
                      "Mod",
                      "QoL",
@@ -18805,7 +18805,7 @@
     {
         "id":  "vladzgrid.f4ephantom",
         "displayName":  "F-4E Phantom II",
-        "description":  "Adds a playable rank-1 F-4E Phantom II ($20 million) with gray livery, weapon pylons, twin exhausts and native cockpit/flight systems.",
+        "description":  "Добавляет играбельный F-4E Phantom II 1 ранга (20 млн $) с серым камуфляжом, точками подвески, двойными соплами и штатной кабиной/самолётными системами.",
         "tags":  [
                      "mod",
                      "aircraft",
@@ -18858,7 +18858,7 @@
     {
         "id":  "WeatherController",
         "displayName":  "Weather Controller",
-        "description":  "Comprehensive weather control system. Adjust time of day, wind, clouds, and dynamic weather conditions.",
+        "description":  "Комплексная система управления погодой. Настройка времени суток, ветра, облаков и динамических погодных условий.",
         "tags":  [
                      "QoL"
                  ],
@@ -18889,7 +18889,7 @@
     {
         "id":  "WingCommand",
         "displayName":  "WingCommand",
-        "description":  "Command AI aircraft as your wing. Recruit or buy wingmen, hold ten formation shapes, and issue orders - rejoin, engage on a tether, attack your target, fall back with flares, orbit, deliver cargo, land - from the game\u0027s own radial menu, an MFD screen and the tactical map. Wingmen and their targets are marked on both the HUD and the map. EARLY DEVELOPMENT: largely AI-authored, not balanced (the shop is overpowered and will break mission difficulty), host or single-player only, and expect behaviour and config to change between versions. Feedback and bug reports very welcome.",
+        "description":  "Командуйте самолётами ИИ как своим звеном. Нанимайте или покупайте ведомых, держите десять фигур строя и отдавайте приказы — сомкнуться, атаковать на привязи, атаковать вашу цель, отойти с ловушками, кружить, доставить груз, сесть — из собственного радиального меню игры, экрана МФД и тактической карты. Ведомые и их цели отмечены и на HUD, и на карте. РАННЯЯ СТАДИЯ: во многом написано ИИ, не сбалансировано (магазин слишком силён и сломает сложность миссий), только хост или одиночная игра, поведение и настройки могут меняться между версиями. Обратная связь и отчёты об ошибках очень приветствуются!",
         "tags":  [
                      "QoL",
                      "Utility",
@@ -19038,7 +19038,7 @@
     {
         "id":  "YawOnMouse",
         "displayName":  "Yaw On Mouse",
-        "description":  "Yaw On Mouse allows you to control the Yaw axis instead of the Roll axis with the Mouse",
+        "description":  "Yaw On Mouse позволяет управлять осью рыскания вместо крена мышью.",
         "tags":  [
                      "mod"
                  ],
@@ -19106,7 +19106,7 @@
     {
         "id":  "Zorduzd",
         "displayName":  "Zorduzd",
-        "description":  "A Moza Flight Stick FFB mod for Nuclear Option",
+        "description":  "Мод FFB для авиационного джойстика Moza Flight Stick в Nuclear Option.",
         "tags":  [
                      "mod",
                      "ffb"

@@ -4,17 +4,26 @@
 
 ## Что это
 
-NOMM (менеджер модов Nuclear Option) берёт список модов из реестра [NOMNOM](https://github.com/KopterBuzz/NOMNOM) — манифест `manifest.json` на английском. Этот проект — **готовый к употреблению манифест** с русскими описаниями топ-51 мода (по числу скачиваний) и полным перечнем всех 238 модов реестра.
+NOMM (менеджер модов Nuclear Option) берёт список модов из реестра [NOMNOM](https://github.com/KopterBuzz/NOMNOM) — манифест `manifest.json` на английском. Этот проект — **готовый к употреблению манифест** с русскими описаниями **всех 238 модов** реестра.
 
 Интерфейс самого менеджера при этом остаётся английским — переводятся только описания модов.
 
-## Как использовать
+## Как использовать (локальный сервер)
 
-1. Откройте NOMM → **Settings**.
-2. В блоке **Manifest** замените:
-   - `Manifest Source URL` → `https://raw.githubusercontent.com/<ВАШ-ЛОГИН>/nomm-ru-manifest/main/dist/manifest.json`
-   - `Manifest Version Source URL` → `https://raw.githubusercontent.com/<ВАШ-ЛОГИН>/nomm-ru-manifest/main/dist/version.json`
-3. Список модов перезагрузится с русскими описаниями.
+1. Запустите `start-server.bat` (порт 8765, файлы раздаются из `dist/`).
+2. Откройте NOMM → **Settings**.
+3. В блоке **Manifest** замените:
+   - `Manifest Source URL` → `http://localhost:8765/manifest.json`
+   - `Manifest Version Source URL` → `http://localhost:8765/version.json`
+4. Список модов перезагрузится с русскими описаниями.
+
+Чтобы вернуть английские описания — вставьте обратно официальные URL:
+`https://kopterbuzz.github.io/NOMNOM/manifest/manifest.json` и `.../version.json`.
+
+## Как использовать (GitHub, после публикации репозитория)
+
+- `Manifest Source URL` → `https://raw.githubusercontent.com/<ВАШ-ЛОГИН>/nomm-ru-manifest/main/dist/manifest.json`
+- `Manifest Version Source URL` → `https://raw.githubusercontent.com/<ВАШ-ЛОГИН>/nomm-ru-manifest/main/dist/version.json`
 
 Установка, обновления и проверка хэшей модов продолжают работать — меняем только источник описаний, сами ссылки на скачивание (`downloadUrl`) и хэши остаются оригинальными.
 
@@ -28,11 +37,11 @@ NOMM (менеджер модов Nuclear Option) берёт список мод
 ## Обновление переводов
 
 1. Скачать свежий манифест: `https://kopterbuzz.github.io/NOMNOM/manifest/manifest.json` → заменить `manifest.upstream.json`.
-2. Добавить новые id в `translations.ru.json` (переводятся в первую очередь топ-50 по скачиваниям).
-3. Запустить: `powershell -ExecutionPolicy Bypass -File build.ps1 -Version <новая-версия>`
+2. Добавить новые id в `translations.ru.json` (без перевода остаются новые моды — сборщик их перечислит).
+3. Запустить: `powershell -ExecutionPolicy Bypass -File build.ps1 -Version <новая-версия>` (версию поднимать обязательно, иначе NOMM не перечитает список).
 4. Закоммитить и запушить `dist/`.
 
 ## Ограничения
 
-- Переведены описания топ-51 мода; остальные 187 модов видны в списке, но с английскими описаниями.
+- Переведены описания всех 238 модов текущего снимка; после обновления `manifest.upstream.json` новые моды появятся с английскими описаниями, пока для них не добавят перевод.
 - Названия модов, теги и ссылки не переводятся — это имена собственные и технические идентификаторы.
